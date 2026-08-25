@@ -1,0 +1,94 @@
+html[data-theme="dark"] {
+  background-color: #111827;
+  color-scheme: dark;
+}
+
+html[data-theme="dark"] body {
+  background-color: #111827;
+  color: #e5e7eb;
+}
+
+html[data-theme="dark"] a {
+  color: #bfdbfe;
+}
+
+html[data-theme="dark"] a:visited {
+  color: #c4b5fd;
+}
+
+html[data-theme="dark"] blockquote {
+  border-left-color: #64748b;
+  color: #cbd5e1;
+}
+
+html[data-theme="dark"] hr,
+html[data-theme="dark"] tbody,
+html[data-theme="dark"] th {
+  border-color: #94a3b8;
+}
+
+html[data-theme="dark"] table td,
+html[data-theme="dark"] table th {
+  border-color: #475569;
+}
+
+html[data-theme="dark"] table tr {
+  background-color: #1f2937;
+  border-top-color: #475569;
+}
+
+html[data-theme="dark"] table tr:nth-child(2n) {
+  background-color: #273449;
+}
+
+#theme-toggle {
+  position: fixed;
+  top: 1rem;
+  right: 1rem;
+  z-index: 1000;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  min-height: 2.5rem;
+  padding: 0.45rem 0.75rem;
+  border: 1px solid #64748b;
+  border-radius: 999px;
+  background: #ffffff;
+  color: #0f172a;
+  box-shadow: 0 0.25rem 0.8rem rgb(15 23 42 / 18%);
+  cursor: pointer;
+  font: 600 0.875rem/1.2 system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+}
+
+#theme-toggle:hover {
+  background: #f1f5f9;
+}
+
+#theme-toggle:focus-visible {
+  outline: 3px solid #2563eb;
+  outline-offset: 3px;
+}
+
+html[data-theme="dark"] #theme-toggle {
+  border-color: #94a3b8;
+  background: #1f2937;
+  color: #f8fafc;
+  box-shadow: 0 0.25rem 0.8rem rgb(0 0 0 / 35%);
+}
+
+html[data-theme="dark"] #theme-toggle:hover {
+  background: #334155;
+}
+
+@media (max-width: 600px) {
+  #theme-toggle {
+    top: 0.75rem;
+    right: 0.75rem;
+  }
+}
+
+@media print {
+  #theme-toggle {
+    display: none !important;
+  }
+}
