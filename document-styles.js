@@ -1,4 +1,17 @@
 /* =============================================================================
+   FICHIER GÉNÉRÉ — NE PAS ÉDITER
+   -----------------------------------------------------------------------------
+   Miroir de document-theme.css destiné au moteur de pagination lorsque les
+   documents sont ouverts en file://. Toute modification doit être faite dans
+   document-theme.css, puis :
+
+       node tools/build-styles.mjs
+
+   Source   : document-theme.css
+   Empreinte: sha256:ba810aaedfa0
+   ============================================================================= */
+
+window.MA_DOCUMENT_CSS = `/* =============================================================================
    MOTOR AS'PHALTE — Feuille de style documentaire unique
    -----------------------------------------------------------------------------
    Cette feuille est la SEULE source de vérité typographique du dossier juridique.
@@ -1273,3 +1286,5 @@ table a,
     text-transform: none;
   }
 }
+`;
+window.MA_DOCUMENT_CSS_DIGEST = "ba810aaedfa0";

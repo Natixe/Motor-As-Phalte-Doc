@@ -1,0 +1,461 @@
+PACTE D'ASSOCIÉS — MOTOR AS'PHALTE
+Version révisée du 24 août 2026 — annule et remplace la version du 23 août 2026
+TITRE I — PRÉAMBULE
+ENTRE LES SOUSSIGNÉS
+1. Monsieur Adam Talal KABBARA, né le vingt-huit septembre deux mille six (28/09/2006) à Paris 15e arrondissement, de nationalité française, célibataire, demeurant 24 Grande Rue, 95370 Montigny-lès-Cormeilles, exerçant par ailleurs en nom propre sous l'enseigne « NOBLEDRIVE » en qualité d'entrepreneur individuel immatriculé sous le numéro SIREN 100372416 — ci-après « Adam Talal Kabbara » ;
+2. Monsieur Enzo MANGA, né le vingt-six septembre deux mille six (26/09/2006) à Ermont, de nationalité française, célibataire, demeurant 33 rue du Général de Gaulle, 95370 Montigny-lès-Cormeilles — ci-après « Enzo Manga » ;
+3. Monsieur Timeo Julien Joël DURANDO, né le deux février deux mille sept (02/02/2007) à L'Isle-Adam, de nationalité française, célibataire, demeurant 48 rue Maurice Ravel, 95220 Herblay — ci-après « Timeo Durando » ;
+ci-après dénommés individuellement un « Fondateur » et collectivement les « Fondateurs » ou les « Parties ».
+Les Fondateurs déclarent être tous majeurs et jouir de leur pleine capacité juridique à la date des présentes.
+IL A ÉTÉ EXPOSÉ CE QUI SUIT
+(a) Les Fondateurs se connaissent et ont élaboré ensemble un projet entrepreneurial articulé autour de trois activités :
+Courtage & importation : recherche sur mesure, négociation, démarches administratives et logistique de véhicules d'occasion depuis l'Europe ;
+Négoce & préparation : vente de véhicules premium en stock, incluant une remise en état systématique (préparation esthétique et entretien mécanique de base) ; et
+Média & communauté : production de contenus numériques d'expertise automobile (essais, conseils) destinés à accompagner les acheteurs et à fédérer les passionnés.
+(b) Les Fondateurs ont décidé de développer ce projet au moyen d'une société commerciale de forme société par actions simplifiée (SAS), à ce jour non encore constituée ni immatriculée (ci-après la « Société »).
+(c) Les Fondateurs souhaitent, avant même la constitution de la Société, formaliser (i) leur engagement réciproque et irrévocable de la constituer selon les modalités arrêtées d'un commun accord, et (ii) les règles qui gouverneront leurs rapports en tant qu'associés une fois la Société immatriculée, afin de sécuriser le projet commun, de prévenir les conflits et de protéger la Société et son activité.
+(d) C'est dans ce contexte qu'a été arrêté et signé le présent document, qui vaut à la fois promesse synallagmatique de constitution de société (Titre IV) et pacte d'associés (ensemble des autres Titres), ce dernier ayant vocation à s'appliquer de plein droit dès l'immatriculation de la Société, sans qu'une nouvelle signature soit nécessaire.
+CECI EXPOSÉ, IL A ÉTÉ CONVENU CE QUI SUIT
+TITRE II — DÉFINITIONS
+Article 1 — Définitions
+Pour les besoins du présent Pacte, les termes ci-après, employés indifféremment au singulier ou au pluriel et identifiés par une majuscule initiale, ont la signification suivante :
+« Annexes » : les annexes énumérées à l'Article 63, qui font partie intégrante du Pacte.
+« Associé(s) » : tout titulaire de Titres de la Société, Fondateur ou non, ayant adhéré au Pacte conformément à l'Article 54.
+« Bad Leaver » : un Fondateur dont le départ intervient dans les conditions définies à l'Article 32.
+« Capitaux Propres Retraités » : les capitaux propres de la Société tels qu'ils ressortent des derniers comptes annuels approuvés à la date de la Notification de Départ, retraités conformément à l'Article 30.2.
+« Cession » : a le sens donné au terme « Transfert » par l'article 14.3 des Statuts, à savoir toute opération, à titre onéreux ou gratuit, entraînant le transfert immédiat ou à terme de la pleine propriété, de la nue-propriété, de l'usufruit ou de la jouissance de Titres, sous quelque forme que ce soit, et notamment toute vente, cession, adjudication, nantissement, apport en société, apport partiel d'actif, fusion, scission, prêt, échange, portage, démembrement de propriété, transmission universelle de patrimoine, transmission par suite de dissolution de communauté entre époux, donation, partage, transmission à cause de mort, constitution fiduciaire, ainsi que toute cession ou renonciation individuelle à un droit préférentiel de souscription ou d'attribution, et la constitution de toute sûreté sur les Titres — à l'exclusion de la transmission par décès régie par l'Article 34.
+« Contrôle » : le contrôle au sens de l'article L. 233-3 du Code de commerce.
+« Créations Antérieures » : les actifs de propriété intellectuelle définis à l'Article 39.1 et listés en Annexe 2.
+« Date Butoir » : le 31 janvier 2027, ou toute date ultérieure convenue conformément à l'Article 5.2.
+« Date de Constitution » : la date d'immatriculation de la Société au registre du commerce et des sociétés.
+« Date de Signature » : la date de signature du présent Pacte, indiquée en page de signature.
+« Décisions à Majorité Qualifiée » : les décisions énumérées à l'Article 13.1.
+« Earn-Out » : le mécanisme de complément de prix défini à l'Article 46.
+« Fondateur(s) » : Adam Talal Kabbara, Enzo Manga et Timeo Durando.
+« Good Leaver » : un Fondateur dont le départ intervient dans les conditions définies à l'Article 31.
+« Informations Confidentielles » : les informations définies à l'Article 50.1.
+« Investisseur » : toute personne physique ou morale, autre qu'un Fondateur, entrant au capital de la Société par voie de souscription ou d'acquisition de Titres.
+« Jour Ouvré » : tout jour autre que le samedi, le dimanche et les jours fériés légaux en France.
+« Notification de Cession » : la notification définie à l'Article 22.2.
+« Notification de Départ » : la notification, par le Fondateur sortant ou par le Président, de la survenance d'un événement de départ au sens de l'Article 29.
+« Nouvel Associé » : toute personne, physique ou morale, qui acquiert la qualité d'associé de la Société postérieurement à la Date de Constitution, en ce compris tout Investisseur.
+« Pacte » : le présent acte, en ce compris ses Annexes, tel que modifié le cas échéant conformément à l'Article 52.
+« Période d'Incessibilité » : la période définie à l'Article 21.1.
+« Président » : le président de la Société au sens de l'article L. 227-6 du Code de commerce.
+« Situation de Blocage » : la situation définie à l'Article 48.
+« Société » : la société par actions simplifiée en cours de constitution, dont la dénomination sociale envisagée est Motor As'Phalte, dont le siège social sera fixé 24 Grande Rue, 95370 Montigny-lès-Cormeilles, au capital social initial de quatre mille (4 000) euros.
+« Statuts » : les statuts de la Société tels qu'adoptés à la Date de Constitution, dont le projet figure en Annexe 5, puis modifiés le cas échéant.
+« Titres » : toutes actions et, plus généralement, toutes valeurs mobilières donnant accès, immédiatement ou à terme, au capital ou aux droits de vote de la Société.
+« Titres Non-Acquis » et « Titres Vestés » : les Titres définis à l'Article 28.
+« Transfert » : a le même sens que Cession.
+TITRE III — OBJET DU PACTE
+Article 2 — Objet
+Le Pacte a pour objet de définir :
+(i) les conditions et modalités selon lesquelles les Fondateurs s'engagent à constituer la Société (Titre IV) ;
+(ii) l'organisation des pouvoirs et de la gouvernance de la Société entre les Fondateurs (Titre VI) ;
+(iii) les engagements réciproques des Fondateurs envers la Société et entre eux (Titres VII et X) ;
+(iv) les règles de détention, de transmission et de sortie du capital (Titres VIII et IX) ;
+(v) les règles applicables au financement, à la dilution et à l'arrivée de Nouveaux Associés (Titre XI) ;
+(vi) le mode de résolution des différends et des situations de blocage entre Associés (Titres XIII et XVI).
+Article 3 — Articulation entre le Pacte et les Statuts
+3.1 Le Pacte est un contrat de droit privé conclu entre les Fondateurs. Il n'a, par nature, d'effet qu'entre ses signataires (art. 1199 C. civ.) et n'est pas opposable de plein droit à la Société ni aux tiers.
+3.2 Les clauses du Pacte relatives à l'inaliénabilité (Article 21), à l'agrément (Article 22), à la préemption (Article 23), à l'exclusion (Article 33), au changement de contrôle d'un Associé personne morale ou d'une holding interposée (Article 27.4) et à l'agrément des héritiers (Article 34) ne produisent leur plein effet, y compris à l'égard de la Société et des tiers, que si elles sont également reprises dans les Statuts. Les Fondateurs s'engagent à faire figurer dans les Statuts, dès la Date de Constitution, l'intégralité de ces stipulations, dans les conditions de majorité applicables. Le projet de Statuts figurant en Annexe 5 comporte d'ores et déjà ces clauses.
+3.3 En cas de contradiction entre le Pacte et les Statuts sur un point que la loi n'impose pas de régler exclusivement par les Statuts, les Fondateurs conviennent de faire prévaloir le Pacte dans leurs rapports entre eux, sans préjudice de l'opposabilité propre des Statuts à l'égard de la Société et des tiers. Les Fondateurs s'engagent en pareil cas à voter, dans un délai de trente (30) jours calendaires à compter de la constatation de la contradiction, la modification des Statuts nécessaire pour rétablir la cohérence.
+3.4 Le maintien du Pacte hors des Statuts a pour avantage principal la confidentialité : à la différence des Statuts, déposés au greffe et communicables aux tiers, le Pacte demeure un document privé non publié.
+TITRE IV — ENGAGEMENT DE CONSTITUTION DE LA SOCIÉTÉ (PROMESSE D'ASSOCIATION)
+Article 4 — Engagement irrévocable et réciproque de constituer la Société
+4.1 Chaque Fondateur s'engage irrévocablement et réciproquement envers chacun des autres Fondateurs à participer à la constitution de la Société, à signer les Statuts et l'ensemble des actes nécessaires à son immatriculation, et à effectuer les apports décrits à l'Article 10, au plus tard à la Date Butoir.
+4.2 Cet engagement constitue une promesse synallagmatique : chaque Fondateur est à la fois promettant et bénéficiaire de l'engagement des deux autres.
+Article 5 — Conditions suspensives
+5.1 L'engagement de l'Article 4 est subordonné à la réalisation, au plus tard à la Date Butoir, des conditions suspensives suivantes, énumérées de manière limitative :
+accord unanime des Fondateurs sur le texte définitif des Statuts ;
+ouverture d'un compte bancaire au nom de la Société en formation et dépôt effectif des fonds correspondant aux apports en numéraire, contre délivrance de l'attestation de dépôt ; et
+réalisation effective, par Adam Talal Kabbara, de l'apport en nature des actifs identifiés à l'Article 10.2 et en Annexe 2.
+5.2 Si une condition suspensive n'est pas réalisée à la Date Butoir, chaque Fondateur peut, par notification écrite aux deux autres, soit (i) proposer une prorogation de la Date Butoir, laquelle ne prend effet qu'avec l'accord écrit des trois Fondateurs, soit (ii) constater la caducité de la présente promesse pour la partie non encore exécutée, sans indemnité de part et d'autre, sauf faute d'un Fondateur ayant empêché la réalisation de la condition (art. 1304-3 C. civ.).
+Article 6 — Conséquences du refus injustifié de constituer la Société
+6.1 Si les conditions suspensives de l'Article 5 sont satisfaites et qu'un Fondateur refuse ou s'abstient, sans motif légitime, de signer les Statuts ou de réaliser son apport dans le délai fixé, ce Fondateur est réputé défaillant.
+6.2 Le Fondateur défaillant est redevable envers chacun des autres Fondateurs de dommages et intérêts réparant le préjudice réellement subi (frais engagés, perte de chance, coûts de recherche d'un remplaçant), sans préjudice de l'application de la clause pénale de l'Article 7.
+6.3 Les autres Fondateurs conservent la faculté de constituer la Société entre eux seuls, ou avec un tiers de remplacement, sans que cela ne prive les Fondateurs non défaillants de leur droit à réparation à l'encontre du Fondateur défaillant.
+Article 7 — Clause pénale applicable à la promesse de constitution
+En cas de manquement d'un Fondateur à l'engagement de l'Article 4 non justifié par la survenance d'une cause exonératoire visée à l'Article 5.2, ce Fondateur sera redevable à chacun des autres Fondateurs d'une pénalité forfaitaire de deux mille (2 000) euros, sans préjudice de la réparation du préjudice complémentaire éventuellement démontré au titre de l'Article 6.2, et dans les conditions générales fixées à l'Article 55 (mise en demeure préalable, pouvoir de modération judiciaire).
+Article 8 — Actes accomplis pour le compte de la Société en formation
+8.1 Entre la Date de Signature et la Date de Constitution, les actes énumérés au mandat spécial figurant en Annexe 1 sont conclus « au nom et pour le compte de la société Motor As'Phalte en formation » par Adam Talal Kabbara, spécialement mandaté à cet effet par les autres Fondateurs.
+8.2 Conformément à l'article R. 210-6 du Code de commerce, les Fondateurs conviennent que les engagements pris en vertu de ce mandat sont déterminés et que leurs modalités sont précisées par le mandat, de sorte que l'immatriculation de la Société au registre du commerce et des sociétés emporte de plein droit reprise de ces engagements par la Société.
+8.3 En outre, l'état des actes accomplis pour le compte de la Société en formation, avec l'indication, pour chacun d'eux, de l'engagement qui en résulterait pour la Société, sera annexé aux Statuts conformément à l'article R. 210-6 du Code de commerce ; la signature des Statuts emporte reprise de ces engagements par la Société dès son immatriculation.
+8.4 À défaut de reprise, la ou les personnes ayant agi au nom de la Société en formation demeurent seules tenues, solidairement et indéfiniment, des engagements ainsi souscrits (art. L. 210-6, al. 3, C. com.). Les Fondateurs conviennent, dans leurs rapports entre eux, de supporter la charge définitive de ces engagements par parts égales, dès lors qu'ils ont été souscrits conformément au mandat de l'Annexe 1.
+Article 9 — Frais de constitution
+Les frais liés à la constitution de la Société (frais de greffe, honoraires de rédaction des Statuts, frais de publication de l'annonce légale de constitution et, le cas échéant, honoraires de commissaire aux apports) seront supportés par parts égales entre les Fondateurs, à charge pour la Société de les rembourser après reprise conformément à l'Article 8.
+TITRE V — RÉPARTITION INITIALE DU CAPITAL
+Article 10 — Apports et répartition initiale du capital
+10.1 À la Date de Constitution, le capital social de la Société, fixé à quatre mille (4 000) euros, divisé en quatre mille (4 000) actions d'un (1) euro de valeur nominale chacune, entièrement souscrites et intégralement libérées, sera réparti comme suit :
+Fondateur
+Nature et montant de l'apport
+Nombre de Titres
+% du capital et des droits de vote
+Adam Talal Kabbara
+Apport en nature : actifs numériques et droits de propriété intellectuelle identifiés en Annexe 2, évalués à cinq cents (500) euros — Article 10.2
+Apport en numéraire : mille deux cent trente-deux (1 232) euros
+1 732
+43,30 %
+Enzo Manga
+Apport en numéraire : mille cent trente-quatre (1 134) euros
+1 134
+28,35 %
+Timeo Durando
+Apport en numéraire : mille cent trente-quatre (1 134) euros
+1 134
+28,35 %
+Total
+4 000 euros
+4 000
+100 %
+Les apports en numéraire sont libérés par virement bancaire sur le compte ouvert au nom de la Société en formation, à l'exclusion de tout versement en espèces, contre délivrance de l'attestation de dépôt des fonds.
+10.2 — Apport en nature d'actifs numériques et de droits de propriété intellectuelle identifiés
+10.2.1 Adam Talal Kabbara apporte à la Société, sous les garanties ordinaires et de droit, les seuls actifs identifiés de manière exhaustive en Annexe 2 : le nom de domaine motorasphalte.com ; le site internet, l'application web, les codes sources et le CRM en tant qu'outil logiciel, à l'exclusion de toute base de données contenant des données à caractère personnel ; les comptes de réseaux sociaux listés ; ainsi que l'identité visuelle et les contenus numériques existants.
+10.2.2 Le présent apport est un apport en nature isolé. Il ne constitue pas un transfert universel du patrimoine professionnel au sens de l'article L. 526-27 du Code de commerce. Ne sont notamment pas apportés : le nom commercial et l'enseigne NOBLEDRIVE, les fichiers de clients et de prospects, les créances, les dettes, les disponibilités, les comptes bancaires, les véhicules, les stocks, les contrats et tout autre bien, droit, obligation ou sûreté qui n'est pas expressément visé à l'Annexe 2. Ces éléments demeurent hors du patrimoine de la Société.
+10.2.3 Les actifs apportés sont évalués d'un commun accord à cinq cents (500) euros. Adam Talal Kabbara déclare en être l'unique titulaire, qu'ils sont libres de tout droit de tiers, licence, nantissement, saisie ou revendication, et qu'aucune obligation contractuelle ne s'oppose à leur apport. Il remettra à la Société les fichiers, identifiants et accès nécessaires dans les quinze (15) jours de son immatriculation ; le transfert du nom de domaine sera réalisé auprès du registrar dans le même délai, conformément à ses procédures.
+10.2.4 Adam Talal Kabbara garantit la Société et les autres Fondateurs contre tout recours de tiers fondé sur un droit antérieur relatif aux actifs apportés. Cette garantie survit à la Date de Constitution pour une durée de cinq (5) ans.
+10.2.5 — Dispense de commissaire aux apports. Les Fondateurs décideront, à l'unanimité et dans les Statuts, de ne pas recourir à un commissaire aux apports, en application du cinquième alinéa de l'article L. 227-1 du Code de commerce, les deux conditions cumulatives étant réunies : la valeur de l'apport en nature (500 €) n'excède pas le montant de 30 000 € fixé par l'article D. 227-3 du Code de commerce, et la valeur totale des apports en nature non soumis à l'évaluation d'un commissaire aux apports (500 €) n'excède pas la moitié du capital social (2 000 €).
+Avertissement — responsabilité solidaire quinquennale. En l'absence de commissaire aux apports, les trois Fondateurs — et non le seul apporteur — sont solidairement responsables pendant cinq (5) ans, à l'égard des tiers, de la valeur attribuée à l'apport en nature lors de la constitution de la Société (art. L. 227-1, avant-dernier alinéa, C. com.). Enzo Manga et Timeo Durando déclarent avoir pris connaissance de la liste détaillée des actifs apportés figurant en Annexe 2 et accepter en connaissance de cause la valeur de 500 euros retenue. La garantie personnelle consentie par Adam Talal Kabbara au 10.2.4 ne joue qu'entre Fondateurs et n'est pas opposable aux tiers.
+10.2.6 — Régime fiscal de l'apport. Les Fondateurs reconnaissent avoir été informés de ce que l'apport visé au présent article, portant sur des éléments isolés et non sur une entreprise individuelle ni sur une branche complète d'activité, n'est pas éligible au report d'imposition de l'article 151 octies du Code général des impôts, et que les plus-values éventuellement dégagées relèvent du régime des plus-values professionnelles des articles 39 duodecies et suivants du même code. Ils sont également informés de ce que l'exonération de l'article 151 septies du même code est subordonnée à l'exercice de l'activité pendant au moins cinq ans, condition non remplie à la Date de Signature. Adam Talal Kabbara fait son affaire personnelle de la déclaration et du paiement de l'impôt correspondant et s'engage à consulter un conseil fiscal préalablement à la Date de Constitution.
+10.3 Les Fondateurs conviennent que la clause de garantie du 10.2.4 survit à la Date de Constitution pour une durée de cinq (5) ans, alignée sur la durée de la responsabilité solidaire légale.
+Article 11 — Comptes courants d'associés
+11.1 Les avances en compte courant d'associé sont facultatives pour chaque Fondateur ; aucun Fondateur ne peut être tenu d'en consentir, sauf engagement écrit distinct de sa part.
+11.2 Toute avance en compte courant fera l'objet d'une convention écrite précisant son montant, sa durée, les modalités de sa rémunération éventuelle (dans les limites fiscales et légales applicables) et de son remboursement. Sauf stipulation contraire, ces avances portent intérêt au taux maximal fiscalement déductible.
+11.3 Les comptes courants d'associés ne peuvent en aucun cas être débiteurs. Ils sont remboursables sur demande, sous réserve d'un préavis d'un (1) mois et de la trésorerie disponible de la Société.
+TITRE VI — GOUVERNANCE ET DÉCISIONS COLLECTIVES
+Article 12 — Organes de direction
+12.1 La Société est dirigée par un Président, personne physique, en la personne de Adam Talal Kabbara, désigné pour une durée de cinq (5) ans, renouvelable.
+12.2 Les pouvoirs du Président sont ceux prévus par les Statuts. Dans les rapports entre Associés, ils sont limités par la liste des Décisions à Majorité Qualifiée définies à l'Article 13.
+Article 13 — Décisions requérant une majorité qualifiée ou l'unanimité
+13.1 Par dérogation à la majorité simple, les décisions collectives suivantes (les « Décisions à Majorité Qualifiée ») ne peuvent être valablement adoptées, tant en assemblée qu'à l'occasion d'une consultation écrite, qu'avec l'accord d'Associés représentant au moins 66,67 % des droits de vote existants :
+(a) modification des Statuts (objet social, dénomination, siège), à l'exception des clauses visées au 13.2 ;
+(b) augmentation, réduction ou amortissement du capital social, à l'exception des cas visés au 13.2 ;
+(c) émission de toute valeur mobilière donnant accès au capital, adoption d'un plan de BSPCE, BSA ou attribution gratuite d'actions ;
+(d) fusion, scission, apport partiel d'actifs, dissolution anticipée de la Société ;
+(e) cession, apport ou mise en location-gérance du fonds de commerce ou d'une branche d'activité substantielle ;
+(f) souscription de tout emprunt ou engagement (y compris crédit-bail, caution, aval, garantie) d'un montant unitaire supérieur à cinq mille (5 000) euros ou cumulé supérieur à vingt-cinq mille (25 000) euros sur un même exercice ;
+(g) toute convention entre la Société et un Fondateur, un dirigeant ou une société contrôlée par l'un d'eux, en sus du régime légal des conventions réglementées ;
+(h) nomination ou révocation du Président ou d'un directeur général ;
+(i) adoption et modification substantielle du budget annuel et du business plan ;
+(j) recrutement, licenciement ou modification de la rémunération de tout salarié ou dirigeant percevant une rémunération annuelle brute supérieure à quarante mille (40 000) euros ;
+(k) cession, concession de licence exclusive ou nantissement d'un actif de propriété intellectuelle essentiel à l'activité de la Société ;
+(l) admission d'un Nouvel Associé, sous réserve de l'Article 45.
+13.1 bis Sauf lorsque le présent Pacte en dispose autrement de manière expresse, les seuils de majorité stipulés au Pacte se calculent sur l'ensemble des droits de vote existants, et non sur les seuls droits de vote des Associés présents ou représentés.
+13.2 Ne peuvent être adoptées ou modifiées qu'à l'unanimité des Associés :
+(a) toute clause statutaire d'inaliénabilité (art. L. 227-13 C. com.) ;
+(b) toute clause statutaire relative au changement de contrôle d'un Associé personne morale (art. L. 227-17 C. com.) ;
+(c) toute augmentation des engagements d'un Associé (art. 1836, al. 2, C. civ.) ;
+(d) la modification du présent Pacte, dans les conditions de l'Article 52 ;
+(e) toute décision emportant dilution disproportionnée d'un Fondateur en violation de l'Article 44.
+Article 14 — Décisions relevant de la majorité simple
+Toutes les décisions collectives non visées à l'Article 13 sont adoptées à la majorité simple des droits de vote existants, dans les conditions de forme et de convocation fixées par les Statuts.
+Article 15 — Convention de vote entre Fondateurs
+15.1 Préalablement à toute décision collective portant sur une Décision à Majorité Qualifiée, les Fondateurs s'engagent à se concerter de bonne foi, lors d'une réunion préparatoire tenue au moins cinq (5) Jours Ouvrés avant la décision, afin de rechercher une position commune.
+15.2 Sous réserve du respect de l'intérêt social et de l'ordre public sociétaire, chaque Fondateur conserve la liberté de son vote pour toutes les décisions autres que celles visées au 15.3 ; la présente convention emporte alors seulement une obligation de concertation préalable et de bonne foi, et non une obligation de voter dans un sens déterminé.
+15.3 Pour les seules décisions suivantes : (1) l'entrée de tout Nouvel Associé ou toute opération entraînant une dilution du capital des Fondateurs ; (2) la Cession de Titres entre Associés ou au profit de tiers ; (3) les investissements, emprunts ou engagements dépassant le seuil fixé à l'Article 13.1(f) ; (4) toute orientation stratégique majeure emportant modification substantielle de l'activité de la Société ; et (5) la fixation ou la modification de la rémunération des dirigeants, les Fondateurs s'engagent à voter dans le même sens que la position arrêtée à la majorité d'entre eux lors de la réunion préparatoire visée au 15.1.
+15.3 bis Par exception, l'obligation de voter dans le sens de la position commune ne s'applique ni aux décisions relevant de l'Article 13.2, ni à celles relevant de l'Article 13.1 pour lesquelles le Fondateur concerné a exprimé une opposition motivée lors de la réunion préparatoire visée au 15.1. Les Fondateurs reconnaissent expressément que la présente exception a pour objet de préserver l'effet utile des majorités qualifiées de l'Article 13.1, que la convention de vote priverait autrement de portée.
+15.4 La présente convention de vote est conclue pour la durée du Pacte. Sa violation ouvre droit aux sanctions de l'Article 55, sans que le vote émis en contravention puisse être annulé.
+Article 16 — Clause de non-immixtion
+16.1 Les Fondateurs qui n'exercent pas de mandat social ou de fonction exécutive au sein de la Société s'interdisent de s'immiscer dans la gestion courante de celle-ci, laquelle relève de la compétence du Président et, le cas échéant, du directeur général, sous réserve des prérogatives d'information et de contrôle qui leur sont reconnues par la loi, les Statuts et le présent Pacte.
+16.2 Cette obligation ne fait pas obstacle à l'exercice, par tout Fondateur, de son droit de vote sur les Décisions à Majorité Qualifiée, ni à son droit à l'information visé à l'Article 17.
+Article 17 — Droit à l'information des Fondateurs
+Chaque Fondateur, qu'il exerce ou non une fonction exécutive, a le droit de recevoir : (i) au moins une fois par trimestre, dans les trente (30) jours calendaires suivant la clôture du trimestre, un tableau de bord synthétique de l'activité et de la situation financière de la Société (trésorerie, chiffre d'affaires, principaux indicateurs) ; et (ii) une fois par an, les comptes annuels au moins quinze (15) jours calendaires avant la décision collective appelée à les approuver. Le défaut de communication, persistant quinze (15) jours après mise en demeure, déclenche la clause pénale de l'Article 55.
+TITRE VII — ENGAGEMENTS DES FONDATEURS
+Article 18 — Clause d'exclusivité
+18.1 Chaque Fondateur exerçant une fonction exécutive ou salariée au sein de la Société s'engage à y consacrer l'intégralité de son temps de travail professionnel et à ne pas exercer, directement ou indirectement, d'autre activité professionnelle rémunérée, salariée ou non, sans l'accord préalable écrit des deux autres Fondateurs.
+18.2 Sont exclues de cette interdiction : (i) la gestion du patrimoine personnel du Fondateur concerné ; (ii) les activités accessoires expressément autorisées par écrit ; (iii) la poursuite d'études, les stages et les contrats d'alternance conclus dans le cadre d'une formation, lorsqu'ils sont non concurrents et déclarés en Annexe 6 ; et (iv) les mandats sociaux non exécutifs et non concurrents déclarés en Annexe 6.
+18.3 Tout manquement à la présente obligation constitue un motif d'exclusion au sens de l'Article 33 et déclenche la clause pénale de l'Article 55.
+Article 19 — Engagement de bonne foi, de loyauté et de diligence
+Chaque Fondateur s'engage à agir en toute circonstance dans l'intérêt social de la Société, avec la diligence d'un professionnel avisé, et à informer les autres Fondateurs, dans un délai de cinq (5) Jours Ouvrés, de tout fait ou événement de nature à affecter significativement l'activité, les actifs ou la réputation de la Société.
+Article 20 — Engagement relatif aux apports futurs
+Chaque Fondateur reconnaît que la Société pourra avoir besoin, au cours de son développement, de financements complémentaires. Aucun Fondateur n'est tenu de souscrire personnellement à un financement futur ; les modalités de ces opérations, et leurs conséquences sur la répartition du capital, sont régies par le Titre XI.
+TITRE VIII — TRANSFERT ET CESSION DES TITRES
+Article 21 — Inaliénabilité temporaire
+21.1 Pendant une durée de trois (3) ans à compter de la Date de Constitution (la « Période d'Incessibilité »), chaque Fondateur s'interdit de céder, transférer ou grever de quelque manière que ce soit tout ou partie de ses Titres, sauf : (i) accord unanime écrit préalable des autres Fondateurs ; (ii) Transfert au profit d'une société holding détenue à 100 % par le Fondateur cédant et contrôlée exclusivement par lui, sous réserve de l'Article 27.4 ; (iii) hypothèses de Good Leaver, de Bad Leaver, de décès ou d'incapacité prévues au Titre IX ; ou (iv) exercice d'un Drag Along ou d'un Tag Along conformément aux Articles 25 et 26.
+21.2 Toute Cession réalisée en violation du présent article est nulle en application de l'article L. 227-15 du Code de commerce, la clause étant reprise à l'article 15 des Statuts. Elle engage en outre la responsabilité contractuelle du Fondateur cédant et déclenche la clause pénale de l'Article 55.
+Article 22 — Clause d'agrément
+22.1 À l'issue de la Période d'Incessibilité, toute Cession de Titres à un tiers non-Associé est soumise à l'agrément préalable de la collectivité des Associés, statuant à la majorité de 66,67 % des droits de vote détenus par les Associés autres que le cédant, le Fondateur cédant ne prenant pas part au vote et ses Titres n'étant pris en compte ni pour le calcul du quorum ni pour celui de la majorité.
+22.1 bis — Clause de repli. Dans l'hypothèse où la stipulation du 22.1 écartant le Fondateur cédant du vote viendrait à être réputée non écrite ou privée d'effet, en tout ou partie, par une décision de justice, l'agrément serait donné, de plein droit, à la majorité de cinquante-cinq pour cent (55 %) des droits de vote existants, le Fondateur cédant prenant alors part au vote, conformément à l'article 17.2 bis des Statuts.
+22.2 Le Fondateur souhaitant céder ses Titres notifie aux autres Associés et à la Société une demande d'agrément précisant l'identité complète du cessionnaire pressenti (nom, prénom, domicile ou dénomination sociale, forme, siège, numéro RCS et identité des personnes le contrôlant en dernier ressort), le nombre de Titres concernés, le prix et les conditions de la Cession envisagée (la « Notification de Cession »), dans les formes de l'Article 59.
+22.3 La décision d'agrément est notifiée au cédant dans un délai de soixante (60) jours calendaires à compter de la réception de la Notification de Cession. À défaut de notification dans ce délai, l'agrément est réputé refusé.
+22.4 En cas de refus d'agrément, exprès ou tacite, la Société ou les Associés qui le souhaitent disposent d'un délai de trois (3) mois à compter de la date du refus pour faire acquérir la totalité des Titres, soit par un ou plusieurs Associés, soit par un tiers agréé, soit par la Société elle-même en vue d'une réduction de capital, à un prix déterminé d'un commun accord ou, à défaut, conformément à l'Article 30. À défaut de rachat de la totalité des Titres dans ce délai, le Fondateur cédant est libre de réaliser la Cession aux conditions notifiées, l'agrément étant alors réputé acquis.
+22.5 Lorsque les Titres sont rachetés par la Société, celle-ci est tenue de les céder dans un délai de six (6) mois ou de les annuler, conformément à l'article L. 227-18 du Code de commerce.
+22.6 Le Fondateur cédant peut renoncer à la Cession à tout moment avant le transfert effectif des Titres, par notification adressée dans les formes de l'Article 59.
+Article 23 — Droit de préemption entre Fondateurs
+23.1 Toute Cession de Titres envisagée par un Fondateur au profit d'un tiers ayant obtenu l'agrément conformément à l'Article 22 est, préalablement à sa réalisation, soumise au droit de préemption des autres Fondateurs.
+23.2 La Notification de Cession visée à l'Article 22.2 vaut offre de préemption aux mêmes prix et conditions. Les Fondateurs non cédants disposent d'un délai de trente (30) jours calendaires à compter de la réception de cette notification pour exercer leur préemption, par notification écrite indiquant le nombre de Titres qu'ils souhaitent acquérir. À défaut d'exercice dans ce délai, le Fondateur concerné est réputé avoir irrévocablement renoncé à son droit de préemption pour la Cession considérée.
+23.3 Si les demandes de préemption portent sur un nombre de Titres supérieur à celui offert, la répartition s'opère entre les Fondateurs préempteurs au prorata de leur participation respective au capital, dans la limite de leur demande, les rompus étant attribués au préempteur détenant le plus grand nombre de Titres.
+23.4 Si les demandes de préemption portent sur un nombre de Titres inférieur à celui offert, le Fondateur cédant peut, à son choix, céder aux préempteurs le nombre préempté et céder le solde au cessionnaire tiers agréé, ou renoncer purement et simplement à la Cession. Il notifie son choix dans les dix (10) Jours Ouvrés suivant l'expiration du délai du 23.2.
+23.5 En cas d'exercice valable de la préemption, le transfert des Titres et le paiement du prix interviennent dans un délai de trente (30) jours calendaires à compter de l'expiration du délai visé au 23.2.
+23.6 Toute Cession effectuée en violation du présent article est nulle, la clause étant reprise à l'article 16 des Statuts.
+Article 24 — Clause de premier refus (pacte de préférence)
+24.1 Indépendamment du droit de préemption de l'Article 23, chaque Fondateur s'engage, avant même de rechercher un cessionnaire tiers, à proposer prioritairement la Cession envisagée aux autres Fondateurs, aux prix et conditions qu'il souhaite obtenir.
+24.2 Cette offre prioritaire est notifiée dans les formes de l'Article 59 et ouvre, au bénéfice des autres Fondateurs, un délai de trente (30) jours calendaires à compter de sa réception pour l'accepter, selon la clé de répartition de l'Article 23.3. Ce n'est qu'à l'expiration de ce délai, en cas de refus exprès ou de silence des bénéficiaires, que le Fondateur cédant recouvre sa liberté de rechercher un cessionnaire tiers, sous réserve des Articles 22 et 23.
+24.3 Le Fondateur cédant ne peut, pendant une durée de six (6) mois suivant l'expiration du délai du 24.2, céder ses Titres à un tiers à un prix inférieur ou à des conditions plus favorables que celles proposées aux autres Fondateurs, sans leur avoir préalablement soumis une nouvelle offre prioritaire aux conditions révisées.
+Article 25 — Clause de sortie forcée (Drag Along)
+25.1 En cas de projet de Cession de la totalité des Titres de la Société à un tiers acquéreur de bonne foi, initié par un ou plusieurs Fondateurs représentant ensemble au moins 70 % du capital et des droits de vote (les « Fondateurs Initiateurs »), ceux-ci peuvent exiger des autres Fondateurs (les « Fondateurs Entraînés ») qu'ils cèdent la totalité de leurs Titres au même acquéreur, aux mêmes prix et conditions substantielles que ceux consentis aux Fondateurs Initiateurs (« Drag Along »).
+25.2 Les Fondateurs Initiateurs notifient leur intention d'exercer le Drag Along aux Fondateurs Entraînés au moins trente (30) jours calendaires avant la date prévue de réalisation. Cette notification (la « Notification de Drag ») comporte, à peine de nullité : l'identité complète de l'acquéreur, le prix par Titre, les conditions de paiement, l'étendue des déclarations et garanties demandées, et la date prévue de réalisation.
+25.3 Chaque Fondateur s'oblige, dès la réception d'une Notification de Drag régulière, à signer l'ordre de mouvement et l'ensemble des actes nécessaires à la Cession de ses Titres, dans un délai de quinze (15) jours calendaires. À défaut d'exécution dans ce délai, et après mise en demeure restée sans effet pendant huit (8) jours, les Fondateurs Initiateurs pourront solliciter en référé la désignation d'un mandataire ad hoc aux fins de signature, ainsi que l'exécution forcée en nature de l'obligation de céder (art. 1221 C. civ.), sans préjudice de la clause pénale de l'Article 55.
+25.4 Le Drag Along ne peut être exercé si le prix offert par Titre est inférieur au prix par Titre déterminé conformément à l'Article 30.2, sauf accord unanime contraire des Fondateurs.
+25.5 Les garanties (déclarations, garantie d'actif et de passif) exigibles d'un Fondateur Entraîné ne peuvent excéder, en montant, le produit net de cession qu'il perçoit, ni, en durée, celles consenties par les Fondateurs Initiateurs. Aucun Fondateur Entraîné ne peut être tenu à une obligation de non-concurrence excédant celle de l'Article 36.
+Article 26 — Clause de sortie conjointe (Tag Along)
+26.1 En cas de projet de Cession par un ou plusieurs Fondateurs (les « Fondateurs Cédants ») portant sur des Titres représentant, en une ou plusieurs opérations sur une période de douze (12) mois glissants, plus de 25 % du capital de la Société au profit d'un même tiers acquéreur ou de tiers agissant de concert, les autres Fondateurs (les « Fondateurs Bénéficiaires ») disposent d'un droit de sortie conjointe leur permettant d'exiger que leurs propres Titres soient rachetés par le tiers acquéreur, aux mêmes prix et conditions, au prorata de leur participation.
+26.2 Les Fondateurs Cédants notifient le projet de Cession aux Fondateurs Bénéficiaires selon les modalités de l'Article 59. Les Fondateurs Bénéficiaires disposent d'un délai de trente (30) jours calendaires à compter de la réception pour notifier leur souhait d'exercer le Tag Along. À défaut, ils sont réputés y avoir renoncé pour l'opération considérée.
+26.3 En cas d'exercice du Tag Along, les Fondateurs Cédants s'engagent à obtenir de l'acquéreur qu'il acquière également les Titres des Fondateurs Bénéficiaires ayant exercé leur droit. À défaut d'accord de l'acquéreur, les Fondateurs Cédants ne peuvent réaliser la Cession que dans la limite d'une quotité proportionnellement réduite permettant l'exercice effectif du Tag Along, sauf renonciation expresse des Fondateurs Bénéficiaires.
+Article 27 — Dispositions communes aux Cessions
+27.1 Toute Cession réalisée en méconnaissance des Articles 21 à 24 est nulle en application de l'article L. 227-15 du Code de commerce, les clauses correspondantes étant reprises dans les Statuts. Toute Cession réalisée en méconnaissance des Articles 25 et 26, qui ne figurent pas dans les Statuts, engage la responsabilité contractuelle de son auteur envers les autres Fondateurs et déclenche la clause pénale de l'Article 55.
+27.2 Toute Cession, même autorisée, demeure subordonnée à l'adhésion préalable du cessionnaire au Pacte, conformément à l'Article 54.
+27.3 Les frais afférents à une Cession, hors honoraires propres de chaque partie, sont supportés par le Fondateur cédant, sauf convention contraire. Les droits d'enregistrement sont acquittés par le cessionnaire conformément au droit commun.
+27.4 Les Transferts au profit d'une société holding patrimoniale visés à l'Article 21.1(ii) demeurent soumis à l'obligation, pour le Fondateur concerné, de conserver le Contrôle exclusif de cette holding pendant toute la durée du Pacte, et à l'adhésion préalable de la holding au Pacte. Toute perte de ce Contrôle est assimilée à une Cession soumise à l'ensemble des dispositions du présent Titre VIII et constitue un motif d'exclusion au sens de l'Article 33.
+27.5 Toute Cession donne lieu, à la diligence du Président, à l'inscription au registre des mouvements de titres et à la mise à jour des comptes d'associés dans les cinq (5) Jours Ouvrés de sa réalisation.
+TITRE IX — DÉPART D'UN ASSOCIÉ
+Article 28 — Vesting (acquisition progressive des Titres)
+28.1 Nonobstant la propriété pleine et entière de leurs Titres dès la Date de Constitution, les Fondateurs conviennent que le caractère « acquis » (« vested ») de leurs Titres suit, à compter de la Date de Constitution, le calendrier différencié suivant :
+28.1.1 — Adam Talal Kabbara :
+(a) vingt-cinq pour cent (25 %) de ses Titres sont réputés acquis dès la Date de Constitution, sans période de retrait (« cliff ») ;
+(b) le solde, soit soixante-quinze pour cent (75 %) de ses Titres, s'acquiert ensuite de façon linéaire, mensuellement, sur les trente-six (36) mois suivants, à raison d'un trente-sixième (1/36e) de ce solde par mois échu ;
+soit une acquisition intégrale au terme de trente-six (36) mois à compter de la Date de Constitution.
+28.1.2 — Enzo Manga et Timeo Durando :
+(a) période de retrait (« cliff ») de douze (12) mois : aucun Titre n'est acquis avant l'expiration de cette période ; en cas de départ avant son terme, l'intégralité des Titres du Fondateur concerné est réputée non acquise ;
+(b) à l'issue de la période de retrait, vingt-cinq pour cent (25 %) des Titres du Fondateur concerné sont réputés acquis ;
+(c) le solde, soit soixante-quinze pour cent (75 %) de ses Titres, s'acquiert ensuite de façon linéaire, mensuellement, sur les trente-six (36) mois suivants, à raison d'un trente-sixième (1/36e) de ce solde par mois échu ;
+soit une acquisition intégrale au terme de quarante-huit (48) mois à compter de la Date de Constitution.
+Tout nombre de Titres résultant de ces calculs est arrondi à l'entier inférieur le plus proche.
+Ce traitement différencié tient à la nature des apports respectifs : Adam Talal Kabbara apporte, dès la Date de Constitution, les actifs numériques et droits de propriété intellectuelle identifiés à l'Article 10.2 — immédiatement exploitables par la Société — tandis qu'Enzo Manga et Timeo Durando réalisent des apports exclusivement en numéraire.
+28.2 En cas de départ d'un Fondateur, quelle qu'en soit la cause, à l'exception du décès régi par l'Article 34, les Titres non encore acquis à la date d'effet du départ (les « Titres Non-Acquis ») font l'objet d'une promesse unilatérale de vente, consentie irrévocablement par chaque Fondateur au profit des autres Fondateurs, au prorata de leur participation respective, ou de tout tiers qu'ils désigneraient d'un commun accord, notamment un remplaçant. Cette promesse porte sur des éléments essentiels déterminés au sens de l'article 1124 du Code civil : le prix est égal à la valeur nominale des Titres, soit un (1) euro par Titre, et l'option est exerçable dans un délai de quatre-vingt-dix (90) jours calendaires à compter de la date d'effet du départ. À défaut de levée d'option dans ce délai, les Titres Non-Acquis demeurent la propriété du Fondateur sortant.
+28.3 Les Titres déjà acquis (les « Titres Vestés ») à la date d'effet du départ suivent le régime de rachat prévu selon la qualification Good Leaver ou Bad Leaver du Fondateur sortant (Articles 31 et 32).
+28.4 En cas de survenance d'un Drag Along (Article 25) ou d'une Cession de plus de 50 % du capital à un tiers avant le terme du calendrier de vesting, l'intégralité des Titres non encore acquis de chaque Fondateur est réputée immédiatement acquise par anticipation (« accélération totale »), sauf stipulation contraire décidée à l'unanimité des Fondateurs.
+Article 29 — Événements de départ
+Constituent des hypothèses de départ d'un Fondateur, emportant application du présent Titre IX : la démission de ses fonctions exécutives, la révocation de son mandat social, le retrait volontaire, l'exclusion prononcée conformément à l'Article 33, l'incapacité prolongée constatée conformément à l'Article 35, et le décès régi par l'Article 34. La date d'effet du départ est celle de la réception de la Notification de Départ ou, en cas d'exclusion, celle de la notification de la décision d'exclusion.
+Article 30 — Méthode de valorisation et procédure de détermination du prix
+30.1 — Prix de rachat des Titres Vestés. Sauf accord amiable entre les parties concernées, le prix unitaire de rachat des Titres Vestés du Fondateur sortant est déterminé comme suit :
+Good Leaver (Article 31) : le prix unitaire est égal à la quote-part des Capitaux Propres Retraités par Titre, telle que définie au 30.2, sans décote d'aucune sorte ;
+Bad Leaver (Article 32) : le prix unitaire est égal au montant le plus faible entre (i) la valeur nominale du Titre, soit un (1) euro, ou son prix de souscription d'origine s'il est supérieur, et (ii) la quote-part des Capitaux Propres Retraités par Titre telle que définie au 30.2.
+30.2 — Définition des Capitaux Propres Retraités. La quote-part des Capitaux Propres Retraités par Titre est égale au montant des capitaux propres de la Société, divisé par le nombre total de Titres composant le capital social, calculé selon les règles suivantes, qui forment une méthode complète et autosuffisante :
+(a) Date de référence : les derniers comptes annuels régulièrement approuvés à la date de la Notification de Départ. Si plus de six (6) mois se sont écoulés entre la clôture de ces comptes et la Notification de Départ, une situation comptable intermédiaire est établie par le Président à la fin du mois précédant la Notification de Départ, selon les mêmes méthodes et principes comptables.
+(b) Retraitements : les capitaux propres ainsi retenus sont (i) majorés des subventions d'investissement nettes et des provisions réglementées ; (ii) minorés des dividendes dont la distribution a été décidée et non encore versés à la date de référence, ainsi que des actifs incorporels inscrits au bilan qui ne correspondraient pas à un actif réellement cessible ; (iii) minorés de toute provision qui aurait dû être constituée au regard des principes comptables applicables et ne l'aurait pas été.
+(c) Comptes courants d'associés : les soldes de comptes courants d'associés sont exclus du calcul des capitaux propres ; ils sont remboursés séparément au Fondateur sortant dans les conditions de l'Article 11.3, indépendamment du prix des Titres.
+(d) Nombre de Titres : le nombre total de Titres composant le capital social à la date de référence, sur une base pleinement diluée, en tenant compte de l'exercice de tous bons, options et valeurs mobilières donnant accès au capital alors en circulation.
+(e) Arrondi : le prix unitaire est arrondi au centime d'euro le plus proche, 0,005 euro étant arrondi au centime supérieur.
+(f) Plancher : le prix unitaire ne peut en aucun cas être négatif ; il est alors réputé égal à zéro virgule zéro un (0,01) euro par Titre.
+30.3 Conformément à l'article 1843-4 du Code civil, en ses I et II, les Parties conviennent expressément que la méthode de valorisation définie aux 30.1 et 30.2 constitue les règles et modalités de détermination de la valeur prévues par une convention liant les parties, et s'impose à ce titre, de manière stricte et obligatoire, à tout expert désigné en cas de contestation. Elle est reprise, pour ce qui concerne la Société et les tiers, à l'article 19 bis des Statuts.
+30.4 En cas de désaccord persistant sur le prix, la valeur est fixée par un expert désigné d'un commun accord entre les parties ou, à défaut d'accord dans un délai de quinze (15) Jours Ouvrés à compter de la notification du désaccord, par le président du tribunal de commerce compétent statuant selon la procédure accélérée au fond et sans recours possible, conformément à l'article 1843-4 du Code civil. L'expert ainsi désigné est tenu d'appliquer la méthode fixée aux 30.1 et 30.2.
+30.5 Les honoraires de l'expert sont supportés par moitié par le Fondateur sortant et par moitié par le ou les acquéreurs, sauf décision contraire de l'expert au regard de l'écart entre les prétentions respectives.
+30.6 Le prix est payable dans un délai de trente (30) jours calendaires à compter de sa détermination définitive, sauf échelonnement convenu d'un commun accord. Le transfert de propriété des Titres intervient au paiement intégral du prix.
+Article 31 — Good Leaver
+31.1 Est qualifié de « Good Leaver » le Fondateur dont le départ résulte exclusivement de l'un des événements suivants :
+(a) le décès, traité selon les modalités spécifiques de l'Article 34 ;
+(b) l'invalidité ou l'incapacité permanente empêchant durablement l'exercice de ses fonctions, médicalement constatée, ou l'indisponibilité prolongée au sens de l'Article 35 ;
+(c) le départ décidé d'un commun accord unanime des Fondateurs et expressément qualifié de Good Leaver dans l'acte constatant cet accord ;
+(d) la révocation de son mandat social ou le licenciement, intervenus sans faute grave de sa part ;
+(e) la démission de ses fonctions exécutives intervenant après l'expiration d'une durée de présence de trente-six (36) mois à compter de la Date de Constitution.
+31.2 Le Good Leaver a droit au rachat de ses Titres Vestés au prix déterminé conformément à l'Article 30.1, premier tiret, sans décote.
+Article 32 — Bad Leaver
+32.1 Est qualifié de « Bad Leaver » tout Fondateur dont le départ résulte exclusivement de l'un des événements suivants, énumérés de manière limitative :
+(a) une exclusion prononcée conformément à l'Article 33 pour faute grave, violation du Pacte ou des Statuts, ou violation des engagements de non-concurrence, d'exclusivité, de confidentialité ou de non-débauchage ;
+(b) une démission volontaire de ses fonctions exécutives avant l'expiration d'une durée de présence de trente-six (36) mois à compter de la Date de Constitution ;
+(c) une absence injustifiée ou l'inexécution de ses fonctions opérationnelles pendant plus de quinze (15) jours consécutifs, ou de trente (30) jours cumulés sur une période de douze (12) mois glissants, sans justification médicale ni autorisation des autres Fondateurs ;
+(d) le refus, persistant quinze (15) jours après mise en demeure, de transférer à la Société les droits de propriété intellectuelle créés dans le cadre du projet, conformément à l'Article 39 ;
+(e) la révocation de son mandat social ou le licenciement intervenus pour faute grave.
+32.2 Le Bad Leaver a droit au rachat de ses Titres Vestés au prix déterminé conformément à l'Article 30.1, second tiret, sans préjudice de toute action indemnitaire complémentaire en cas de faute caractérisée et de l'application de la clause pénale de l'Article 55.
+32.3 Les Titres Non-Acquis d'un Bad Leaver demeurent en toute hypothèse soumis à la promesse unilatérale de vente de l'Article 28.2, au prix qui y est fixé.
+32.4 Tout départ ne relevant ni de l'Article 31.1 ni du présent article est qualifié de Good Leaver.
+Article 33 — Exclusion d'un Fondateur
+33.1 Un Fondateur peut être exclu de la Société pour l'un des motifs suivants, énumérés de manière limitative et repris à l'article 19 des Statuts :
+(a) violation grave et non régularisée, dans les quinze (15) jours d'une mise en demeure restée sans effet, du Pacte ou des Statuts ;
+(b) violation d'une obligation d'exclusivité, de non-concurrence, de confidentialité ou de non-débauchage souscrite envers la Société ou les autres Associés ;
+(c) exercice, direct ou indirect, d'une activité concurrente de celle de la Société ;
+(d) faits ou actes de nature à porter une atteinte grave aux intérêts ou à la réputation de la Société ;
+(e) condamnation pénale définitive pour une infraction incompatible avec l'exercice de fonctions au sein de la Société ;
+(f) changement de Contrôle d'une société associée dans les conditions de l'article 18 des Statuts, ou changement de Contrôle non autorisé d'une holding interposée au sens de l'Article 27.4 du Pacte ;
+(g) révocation d'un Associé de ses fonctions de mandataire social pour faute grave ;
+(h) incapacité ou indisponibilité prolongée constatée conformément à l'Article 35, sans solution alternative trouvée dans le délai imparti ;
+(i) ouverture, à l'encontre d'un Associé personne morale, d'une procédure de redressement judiciaire, de liquidation judiciaire ou de dissolution. L'ouverture d'une procédure de sauvegarde ne constitue pas un motif d'exclusion.
+33.2 La procédure d'exclusion est la suivante :
+(a) notification écrite et motivée des griefs au Fondateur concerné, énonçant précisément les faits reprochés et le motif statutaire invoqué ;
+(b) tentative de médiation préalable conformément à l'Article 53, sauf en cas de faute d'une gravité rendant le maintien du Fondateur manifestement incompatible avec la poursuite de l'activité sociale ;
+(c) à défaut de résolution amiable dans le délai prévu à l'Article 53.2, convocation du Fondateur concerné à une réunion de la collectivité des Associés, au moins quinze (15) jours calendaires à l'avance, la convocation comportant l'ordre du jour, l'exposé des griefs et l'ensemble des pièces justificatives ;
+(d) le Fondateur visé a le droit de présenter ses observations, par écrit et oralement, avant tout vote, et peut se faire assister du conseil de son choix ;
+(e) la décision d'exclusion est adoptée à la majorité de soixante-cinq pour cent (65 %) des droits de vote existants, le Fondateur visé prenant part au vote et ses Titres étant pris en compte tant pour le quorum que pour la majorité, conformément à l'article 1844, alinéa 1er, du Code civil et à l'article 19.3(e) des Statuts ;
+(f) la décision est motivée et notifiée au Fondateur exclu dans les cinq (5) Jours Ouvrés ;
+(g) à compter de cette notification, les droits non pécuniaires du Fondateur exclu, en ce compris son droit de vote, sont suspendus conformément à l'article L. 227-16 du Code de commerce et à l'article 19 des Statuts, ses droits pécuniaires étant maintenus jusqu'au paiement intégral du prix de rachat.
+33.3 Le rachat des Titres du Fondateur exclu intervient selon la qualification Good Leaver ou Bad Leaver applicable au motif retenu, dans un délai de six (6) mois à compter de la notification de la décision d'exclusion.
+33.4 Le Fondateur exclu conserve le droit de contester la décision d'exclusion devant la juridiction compétente, à laquelle il appartient de vérifier la réalité et la gravité du motif retenu, ainsi que le respect de la procédure. Il peut également contester le prix de cession de ses Titres.
+Article 34 — Décès d'un Fondateur
+34.1 En cas de décès d'un Fondateur, ses Titres sont transmis à ses ayants droit dans les conditions du droit des successions, sous réserve de l'agrément des héritiers non déjà Associés prévu à l'article 20 des Statuts.
+34.2 Les héritiers ou légataires disposent d'un délai de six (6) mois à compter du décès pour indiquer, par notification adressée dans les formes de l'Article 59, s'ils souhaitent : (i) devenir Associés en adhérant au Pacte conformément à l'Article 54, sous réserve de l'agrément visé au 34.1 ; ou (ii) céder les Titres du Fondateur décédé aux Fondateurs survivants, qui bénéficient à cet effet d'un droit de préemption prioritaire, au prix déterminé conformément à l'Article 30.1, premier tiret (régime Good Leaver), les Titres du Fondateur décédé étant, pour cette seule hypothèse, réputés intégralement acquis nonobstant l'Article 28.
+34.3 À défaut d'exercice de ce choix dans le délai imparti, ou en cas de refus d'agrément, les Fondateurs survivants peuvent mettre en œuvre la procédure de rachat prévue au 34.2(ii).
+Article 35 — Incapacité ou indisponibilité prolongée
+35.1 Si un Fondateur exerçant une fonction exécutive se trouve, pour cause de maladie, d'accident ou de tout autre cas de force majeure personnelle, dans l'incapacité d'exercer ses fonctions pendant une durée continue supérieure à quatre-vingt-dix (90) jours, ou discontinue supérieure à cent vingt (120) jours sur une période de douze (12) mois consécutifs, les autres Fondateurs peuvent :
+(a) organiser à titre provisoire son remplacement dans ses fonctions exécutives, sans effet sur sa qualité d'Associé ni sur ses Titres ; et
+(b) si l'indisponibilité se poursuit au-delà de six (6) mois supplémentaires, engager la procédure d'exclusion prévue à l'Article 33, le départ étant alors qualifié de Good Leaver au sens de l'Article 31.1(b).
+35.2 Pendant la période d'indisponibilité, et jusqu'à la notification éventuelle d'une décision d'exclusion, le Fondateur concerné conserve l'intégralité de ses droits d'Associé.
+TITRE X — PROTECTION DE LA SOCIÉTÉ
+Article 36 — Clause de non-concurrence
+36.1 — Objet et durée. Chaque Fondateur s'interdit, pendant une durée de trois (3) ans à compter de la date d'effet de son départ au sens de l'Article 29, de participer, directement ou indirectement, y compris par personne interposée — s'entendant de toute société dans laquelle il exercerait une fonction de direction ou détiendrait une participation lui conférant le Contrôle —, à une activité concurrente de celle exercée par la Société.
+36.2 — Périmètre d'activité. Est réputée concurrente la conception, le développement et la commercialisation d'une offre de services automobiles comprenant :
+le courtage, l'importation, le négoce et la vente de véhicules neufs ou d'occasion, pour compte propre ou pour le compte de tiers (mandat, dépôt-vente) ;
+l'expertise, le diagnostic et l'évaluation de véhicules (cote, valorisation, avis avant achat), à l'exclusion de toute activité de contrôle technique réglementé ;
+la location de véhicules de courte, moyenne et longue durée, ainsi que l'intermédiation en solutions de financement et services annexes ;
+la gestion de flotte automobile pour le compte de tiers ;
+la préparation esthétique, l'entretien courant et la remise en état de véhicules ;
+la production, l'édition, la diffusion et la monétisation de contenus médias et numériques dédiés au secteur automobile ;
+l'organisation d'événements, salons et expositions automobiles ;
+la conception et l'exploitation de plateformes numériques et places de marché dédiées au secteur automobile ; et
+la prise de participation conférant le Contrôle d'une entreprise ayant l'un des objets ci-dessus.
+36.3 — Périmètre géographique. L'interdiction s'applique sur le territoire de la France métropolitaine uniquement.
+36.4 — Proportionnalité. Cette interdiction est strictement limitée à la protection de l'intérêt légitime de la Société et ne fait pas obstacle à l'exercice, par le Fondateur concerné, de toute activité professionnelle non concurrente, ni à la poursuite d'une activité salariée dans un secteur distinct.
+36.5 — Contrepartie financière en cas de qualité de salarié. Si le Fondateur concerné a, à la date de son engagement au titre du présent article, la qualité de salarié de la Société, la présente clause n'est valable que si elle s'accompagne d'une contrepartie financière réelle et non dérisoire, due quelles que soient les circonstances de la rupture. Les Fondateurs conviennent en ce cas d'une contrepartie financière mensuelle brute égale à trente pour cent (30 %) de sa rémunération mensuelle brute moyenne des douze (12) derniers mois, versée pendant toute la durée de l'interdiction. Cette contrepartie est à la charge de la Société ; les Fondateurs s'engagent à voter toute décision nécessaire à son versement effectif.
+36.6 — Renonciation. Les Fondateurs autres que le Fondateur sortant peuvent, agissant à l'unanimité et pour le compte de la Société, renoncer au bénéfice de la présente clause par notification écrite adressée au Fondateur sortant dans les quinze (15) jours calendaires suivant la date d'effet du départ. Cette renonciation, qui doit être claire et non équivoque, libère le Fondateur sortant de l'interdiction et dispense corrélativement du versement de la contrepartie visée au 36.5. Passé ce délai, la renonciation n'est plus possible et la contrepartie reste intégralement due.
+36.7 — Sanction. Tout manquement au présent article déclenche la clause pénale de l'Article 55, sans préjudice de toute action en réparation du préjudice complémentaire et de toute mesure destinée à faire cesser le trouble, notamment en référé.
+Article 37 — Clause de non-débauchage et de non-sollicitation
+37.1 Chaque Fondateur s'interdit, pendant la durée du Pacte et pendant une durée de trois (3) ans à compter de la date d'effet de son départ au sens de l'Article 29, de solliciter, débaucher ou tenter de débaucher, directement ou indirectement :
+(a) tout salarié ou mandataire social de la Société ayant travaillé avec lui au cours des douze (12) derniers mois de sa présence ;
+(b) tout prestataire, consultant ou sous-traitant régulier de la Société ; et
+(c) tout partenaire commercial, fournisseur ou client de la Société avec lequel il a été en relation dans le cadre de ses fonctions, en vue de détourner cette relation au profit d'une activité concurrente au sens de l'Article 36.2.
+37.2 Cette interdiction ne fait pas obstacle à une candidature spontanée non sollicitée de la part d'un salarié, ni aux annonces de recrutement généralistes non ciblées.
+37.3 Tout manquement déclenche la clause pénale de l'Article 55.
+Article 38 — Confidentialité
+Chaque Fondateur s'engage, pendant la durée du Pacte et au-delà dans les conditions de l'Article 50.3, à préserver la confidentialité des informations relatives à la Société, à son savoir-faire et à ses activités, selon les modalités détaillées au Titre XIV.
+Article 39 — Propriété intellectuelle créée par les Fondateurs
+39.1 Adam Talal Kabbara déclare et garantit être l'unique titulaire des créations, développements, codes sources, signes distinctifs non déposés, dessins, modèles et, plus généralement, des actifs de propriété intellectuelle ou industrielle créés avant la Date de Constitution et limitativement listés en Annexe 2 (les « Créations Antérieures »). Enzo Manga et Timeo Durando déclarent ne détenir aucun droit sur les Créations Antérieures ainsi listées.
+39.2 Adam Talal Kabbara apporte à la Société, dès la Date de Constitution, les droits patrimoniaux qu'il détient sur les Créations Antérieures expressément listées en Annexe 2. Cet apport est rémunéré par l'attribution de cinq cents (500) actions dans les conditions de l'Article 10.2 et de l'acte d'apport figurant en Annexe 2 bis.
+39.3 — Créations postérieures. S'agissant des créations réalisées après la Date de Constitution dans le cadre de son activité pour la Société, chaque Fondateur s'engage, en tant qu'obligation de faire, à signer au profit de la Société, à première demande et au moins une fois par semestre, un acte de cession distinct portant sur les créations effectivement réalisées au cours de la période écoulée, individuellement identifiées et conforme au formalisme de l'article L. 131-3 du Code de la propriété intellectuelle. Le refus de signer un tel acte, persistant quinze (15) jours après mise en demeure, constitue un motif d'exclusion au sens de l'Article 33.1(a) et qualifie le départ de Bad Leaver au sens de l'Article 32.1(d).
+39.4 — Logiciels. Les Fondateurs prennent acte de ce que l'article L. 113-9 du Code de la propriété intellectuelle, qui dévolue à l'employeur les droits patrimoniaux sur les logiciels créés par un salarié dans l'exercice de ses fonctions, suppose une relation salariale : il ne s'applique donc ni aux créations antérieures à la Date de Constitution, ni aux créations réalisées par un Fondateur non salarié. Une cession contractuelle expresse demeure en conséquence nécessaire dans les deux cas.
+39.5 — Marques et signes distinctifs. À la Date de Signature, aucune marque n'est comprise dans l'apport et aucune formalité d'inscription auprès de l'INPI n'est requise à ce titre. Si une marque venait ultérieurement à être déposée ou transférée, l'opération ferait l'objet d'un acte écrit distinct et de l'inscription requise au registre national des marques.
+39.6 — Données à caractère personnel. Aucun fichier de clients, prospects, contacts ou utilisateurs, ni aucune donnée à caractère personnel, n'est transféré au titre de l'apport visé à l'Article 10.2. Toute transmission ultérieure de telles données devra faire l'objet d'un acte distinct et respecter le règlement (UE) 2016/679 ainsi que la loi n° 78-17 du 6 janvier 1978 modifiée.
+39.7 Chaque Fondateur garantit la Société contre tout recours d'un tiers, y compris un ancien employeur ou un établissement d'enseignement, portant sur la titularité des droits cédés au titre du présent article.
+TITRE XI — FINANCEMENT ET DILUTION
+Article 40 — Principes relatifs aux financements futurs
+Toute décision de solliciter un financement externe (augmentation de capital, émission d'obligations convertibles, avances en compte courant substantielles) relève des Décisions à Majorité Qualifiée de l'Article 13.1, sauf lorsque le présent Titre XI prévoit une règle spécifique.
+Article 41 — Augmentation de capital réservée aux Fondateurs
+41.1 Toute augmentation de capital en numéraire ouverte aux seuls Fondateurs est proposée à chacun d'eux au prorata de sa participation, conformément au droit préférentiel de souscription de droit commun.
+41.2 Si un Fondateur renonce à exercer son droit préférentiel de souscription en tout ou partie, les autres Fondateurs peuvent souscrire à titre réductible, sous réserve de l'accord à la majorité qualifiée sur l'opération elle-même.
+Article 42 — Anti-dilution entre Fondateurs
+42.1 Sauf décision contraire prise à l'unanimité des Fondateurs, toute opération emportant émission de Titres nouveaux est structurée de manière à ce que la dilution en résultant affecte les trois Fondateurs proportionnellement à leur participation respective avant l'opération, soit, à la Date de Constitution, dans un rapport constant de 43,30 % : 28,35 % : 28,35 %.
+42.2 Toute opération qui aurait pour effet de diluer un Fondateur en deçà de 19 % du capital sans son consentement exprès est soumise à l'unanimité des Fondateurs, conformément à l'Article 13.2(e).
+Article 43 — Rééquilibrage entre Fondateurs
+43.1 Dans l'hypothèse où la Société émettrait de nouveaux Titres au profit d'un Investisseur à un prix par Titre inférieur à la valeur par Titre retenue à la Date de Constitution, et où cette opération affecterait un Fondateur proportionnellement plus qu'un autre du seul fait du prix de l'opération, les Fondateurs s'engagent à rétablir entre eux le rapport de 43,30 % : 28,35 % : 28,35 % par la mise en œuvre de l'un des mécanismes suivants, arrêté d'un commun accord :
+(a) cession de Titres entre Fondateurs, du ou des Fondateurs relativement avantagés au profit du ou des Fondateurs relativement désavantagés, à la valeur nominale ; ou
+(b) souscription préférentielle, par le ou les Fondateurs désavantagés, d'une augmentation de capital réservée d'un montant permettant le rééquilibrage, les autres Fondateurs s'engageant à voter la suppression du droit préférentiel de souscription à leur profit ; ou
+(c) attribution gratuite d'actions, dans les seuls cas où le Fondateur bénéficiaire remplit les conditions légales pour en être attributaire et dans les limites légales applicables.
+43.2 Ce mécanisme ne joue qu'entre Fondateurs et n'emporte en aucun cas exonération totale d'un Fondateur des pertes de la Société, ni attribution de la totalité des bénéfices à un seul Fondateur.
+43.3 Tout mécanisme de ratchet négocié au bénéfice d'un Investisseur externe fera l'objet de stipulations propres à la documentation d'investissement alors conclue, laquelle pourra compléter ou, sous réserve de l'accord unanime des Fondateurs, adapter le présent article.
+Article 44 — Interdiction de la dilution abusive
+Aucune augmentation de capital ne peut être décidée dans le but principal ou exclusif de diluer un Fondateur minoritaire en violation de son intérêt légitime d'Associé. Une telle opération serait constitutive d'un abus de majorité susceptible d'engager la responsabilité de ses auteurs et d'entraîner l'annulation de la décision, indépendamment des recours prévus par le présent Pacte.
+Article 45 — Arrivée de nouveaux Investisseurs
+45.1 Toute opération conduisant à l'entrée au capital d'un Investisseur est une Décision à Majorité Qualifiée au sens de l'Article 13.1.
+45.2 Préalablement à la réalisation de l'opération, tout Investisseur doit adhérer au Pacte dans les conditions de l'Article 54 ou, si les Fondateurs en décident à l'unanimité, signer un pacte d'associés spécifique régissant ses seules relations avec les Fondateurs, sans que cela puisse réduire les droits respectifs des Fondateurs entre eux tels que fixés par le présent Pacte, sauf accord unanime de ces derniers.
+45.3 Les Fondateurs s'engagent à négocier de bonne foi avec tout Investisseur potentiel les clauses usuelles de gouvernance et de protection (représentation au sein d'un comité stratégique, droit d'information renforcé, liquidation préférentielle, ratchet spécifique), sans que cela puisse remettre en cause, sans l'unanimité des Fondateurs, l'équilibre de gouvernance organisé par le présent Pacte entre les seuls Fondateurs.
+Article 46 — Earn-Out
+46.1 Si un apport en nature réalisé par un Fondateur fait l'objet d'une valorisation comportant une part différée ou conditionnelle, indexée sur l'atteinte d'objectifs postérieurs à la Date de Constitution (un « Earn-Out »), les modalités de cet Earn-Out — objectifs, période de référence, méthode de calcul, engagements de gestion pendant la période, modalités de règlement en numéraire ou en Titres, audit contradictoire — seront précisées dans une convention spécifique qui se substituera à l'Annexe 4.
+46.2 À la Date de Signature, aucun Earn-Out n'est convenu : l'apport en nature visé à l'Article 10.2 est valorisé de manière ferme et définitive à cinq cents (500) euros. L'Annexe 4 est en conséquence sans objet à ce jour.
+46.3 Si tout ou partie du prix d'une future Cession de Titres de la Société à un tiers acquéreur comporte une composante d'Earn-Out, les Fondateurs s'engagent à coopérer de bonne foi, pendant la période d'Earn-Out, à l'atteinte des objectifs conditionnant son versement, y compris en acceptant des obligations de présence ou de non-concurrence spécifiques à cette période, sous réserve que ces obligations demeurent proportionnées.
+TITRE XII — DIVIDENDES
+Article 47 — Politique de distribution
+47.1 Les Fondateurs conviennent que, pendant les deux (2) premiers exercices sociaux suivant la Date de Constitution, la Société privilégiera le réinvestissement intégral de ses résultats dans son développement, sauf décision contraire prise à la majorité qualifiée de l'Article 13.1.
+47.2 Au-delà de cette période, et sous réserve de la dotation préalable de la réserve légale et des réserves statutaires obligatoires, ainsi que du maintien d'une trésorerie de sécurité au moins égale à six (6) mois de charges fixes, la collectivité des Associés peut décider, à la majorité simple, de distribuer tout ou partie du bénéfice distribuable.
+47.3 Sauf décision contraire prise à l'unanimité, notamment par création d'une catégorie d'actions de préférence, les dividendes sont répartis entre les Associés proportionnellement à leur participation dans le capital, conformément à l'article 1844-1 du Code civil.
+47.4 Toute affectation du résultat qui aurait pour effet d'exclure totalement un Associé du bénéfice, ou de lui attribuer la totalité de celui-ci, serait réputée non écrite en application du même article.
+TITRE XIII — GESTION DES CONFLITS ET SITUATIONS DE BLOCAGE
+Article 48 — Définition de la Situation de Blocage
+Constitue une « Situation de Blocage » toute situation dans laquelle une Décision à Majorité Qualifiée essentielle au fonctionnement ou au développement de la Société — notamment l'adoption du budget annuel, une levée de fonds nécessaire à la poursuite de l'activité, ou la nomination d'un dirigeant en cas de vacance — ne peut être adoptée du fait d'un désaccord persistant entre les Fondateurs, malgré deux convocations successives de la collectivité des Associés portant sur le même ordre du jour et espacées d'au moins quinze (15) jours calendaires.
+Article 49 — Procédure de résolution des Situations de Blocage
+49.1 — Phase 1 : négociation directe. Dès la constatation d'une Situation de Blocage, les Fondateurs disposent d'un délai de quinze (15) jours calendaires pour tenter de la résoudre par la négociation directe, le cas échéant en présence d'un tiers facilitateur choisi d'un commun accord.
+49.2 — Phase 2 : médiation. À défaut d'accord à l'issue de la Phase 1, les Fondateurs recourent à la médiation prévue à l'Article 53.2, pour une durée maximale de trente (30) jours calendaires.
+49.3 — Phase 3 : mécanisme de sortie (« buy or sell »). Si la Situation de Blocage persiste à l'issue de la Phase 2, tout Fondateur peut notifier aux autres un prix par Titre auquel il est prêt, au choix des destinataires, (i) à acheter la totalité de leurs Titres, ou (ii) à leur vendre la totalité de ses propres Titres. Les destinataires disposent d'un délai de trente (30) jours calendaires à compter de la réception pour notifier leur choix, exprimé à l'unanimité d'entre eux s'ils sont plusieurs ; à défaut d'unanimité, chacun d'eux opte individuellement. En l'absence de choix notifié dans ce délai, les destinataires sont réputés avoir opté pour la vente de leurs Titres au notifiant, au prix notifié. La réalisation intervient dans les trente (30) jours calendaires suivant l'expiration du délai d'option.
+49.3 bis — Garantie de financement. La notification prévue au 49.3 est irrecevable si elle n'est pas accompagnée d'une attestation bancaire de disponibilité des fonds correspondant au prix total qui serait dû par le notifiant en cas d'option des destinataires pour la vente.
+49.3 ter — Articulation avec les Statuts. Les Transferts réalisés en exécution du 49.3 relèvent de l'exception à l'inaliénabilité prévue à l'article 15.2(h) des Statuts et ne sont soumis ni à la procédure de préemption de l'article 16 des Statuts, ni à la procédure d'agrément de l'article 17 des Statuts.
+49.4 Ce mécanisme ne s'applique pas aux Situations de Blocage portant sur les décisions listées à l'Article 13.2, pour lesquelles l'absence d'unanimité emporte simplement le statu quo.
+TITRE XIV — CONFIDENTIALITÉ
+Article 50 — Obligation de confidentialité
+50.1 Chaque Fondateur s'engage à conserver strictement confidentielles toutes informations relatives à la Société, à ses activités, à sa clientèle, à ses partenaires, à sa technologie, à sa stratégie, à ses données financières et, plus généralement, toute information non publique dont il aurait connaissance du fait de sa qualité d'Associé ou de dirigeant (les « Informations Confidentielles »), et à ne les utiliser qu'aux seules fins de l'exercice de ses fonctions ou de ses droits d'Associé.
+50.2 Sont exclues de cette obligation les informations (i) déjà publiques autrement que par la faute du Fondateur concerné ; (ii) déjà connues de lui avant leur communication, preuve écrite à l'appui ; ou (iii) dont la communication est exigée par la loi, une autorité judiciaire ou administrative compétente, sous réserve, si possible, d'en informer préalablement les autres Fondateurs.
+50.3 L'obligation de confidentialité s'applique pendant toute la durée du Pacte et se poursuit pendant une durée de dix (10) ans après la perte, par le Fondateur concerné, de sa qualité d'Associé ou de dirigeant.
+50.4 Chaque Fondateur répond de la bonne exécution de cette obligation par ses préposés, conseils et mandataires ayant eu accès aux Informations Confidentielles, auxquels il fait souscrire un engagement de confidentialité équivalent.
+50.5 Tout manquement déclenche la clause pénale de l'Article 55, sans préjudice de toute mesure conservatoire ou d'urgence destinée à faire cesser la divulgation.
+TITRE XV — DURÉE ET RÉVISION DU PACTE
+Article 51 — Durée et caducité
+51.1 Le Pacte entre en vigueur à la Date de Signature pour les seules dispositions du Titre IV et, pour l'ensemble de ses autres dispositions, à compter de la Date de Constitution.
+51.2 Il est conclu pour une durée initiale de dix (10) ans à compter de la Date de Constitution, renouvelable par tacite reconduction par périodes successives de cinq (5) ans, sauf dénonciation par l'une des Parties notifiée aux autres, dans les formes de l'Article 59, au moins six (6) mois avant le terme de la période en cours. La dénonciation ne produit effet qu'à l'égard de son auteur, qui cesse d'être partie au Pacte à l'expiration de la période en cours ; le Pacte se poursuit de plein droit entre les autres Parties, sans qu'aucune formalité soit requise. La Partie dénonciatrice demeure tenue des obligations survivant à la perte de la qualité de Partie, dans les conditions de l'Article 51.4. Le Pacte prend fin de plein droit lorsqu'il ne subsiste qu'une seule Partie.
+51.3 Le Pacte devient caduc de plein droit, en tout ou partie selon le cas, en cas de : (i) dissolution ou liquidation de la Société ; (ii) réunion de la totalité des Titres entre les mains d'un seul Associé ; (iii) accord unanime des Associés constatant sa caducité anticipée ; ou (iv) admission des Titres de la Société aux négociations sur un marché réglementé ou organisé, dans la mesure où ses dispositions deviendraient incompatibles avec la réglementation applicable.
+51.4 La perte, par une Partie, de sa qualité d'Associé, ou la dénonciation du Pacte par elle dans les conditions de l'Article 51.2, emporte caducité du Pacte à son égard, sans préjudice du maintien des obligations post-contractuelles expressément prévues, à savoir les Articles 10.2.4, 28, 30 à 32, 36, 37, 39.3, 46.3, 50.3 et 55, ainsi que du paiement du prix de ses Titres.
+51.5 La Partie qui dénonce le Pacte conserve ses Titres et la qualité d'Associé. Elle demeure intégralement soumise aux Statuts, notamment aux clauses d'inaliénabilité, de préemption, d'agrément, d'exclusion et de changement de contrôle, dont la violation est sanctionnée par la nullité de la cession en application de l'article L. 227-15 du Code de commerce.
+Article 52 — Révision du Pacte
+52.1 Toute modification du Pacte requiert l'accord unanime, exprimé par écrit, de l'ensemble des Associés qui y sont alors parties, formalisé par un avenant signé par chacun d'eux et daté. Par exception, la mise à jour de l'Annexe 6, lorsqu'elle est signée par l'ensemble des Fondateurs, ne constitue pas une modification du Pacte au sens du présent article et ne requiert pas d'avenant.
+52.2 Les Parties s'engagent à examiner de bonne foi, au moins une fois par an ou à la demande de l'une d'elles, l'opportunité d'adapter le Pacte à l'évolution de la Société.
+TITRE XVI — RÈGLEMENT DES DIFFÉRENDS
+Article 53 — Négociation, médiation et juridiction compétente
+53.1 — Négociation amiable préalable. Tout différend né de l'interprétation, de l'exécution ou de la validité du présent Pacte doit, préalablement à toute action contentieuse, faire l'objet d'une tentative de règlement amiable entre les Associés concernés, pendant un délai de quinze (15) jours calendaires à compter de sa notification écrite.
+53.2 — Médiation. À défaut d'accord amiable, le différend est soumis, avant toute saisine d'une juridiction, à une médiation conduite par un médiateur désigné d'un commun accord ou, à défaut d'accord dans les quinze (15) jours, par le Centre de médiation et d'arbitrage de Paris (CMAP) selon son règlement de médiation en vigueur, pour une durée maximale de quarante-cinq (45) jours calendaires à compter de la désignation du médiateur.
+53.3 — Juridiction compétente. Si la médiation échoue ou n'aboutit pas dans le délai imparti, le différend est porté devant le tribunal de commerce de Pontoise, sous réserve des règles impératives de compétence matérielle et territoriale applicables. Lorsque ces règles ne permettent pas de saisir ce tribunal, le différend est porté devant la juridiction compétente désignée par la loi.
+53.4 La présente clause ne fait pas obstacle à la faculté, pour tout Associé, de saisir le juge des référés compétent ou le président du tribunal de commerce statuant selon la procédure accélérée au fond, pour toute mesure urgente, conservatoire ou d'instruction, notamment la désignation d'un expert au titre de l'article 1843-4 du Code civil, ni à la mise en œuvre de toute procédure judiciaire relevant de l'ordre public dont les Parties ne peuvent disposer.
+TITRE XVII — DISPOSITIONS FINALES
+Article 54 — Adhésion au Pacte
+54.1 Toute personne physique ou morale qui acquiert la qualité d'Associé de la Société postérieurement à la Date de Signature — Nouvel Associé, cessionnaire agréé, héritier optant pour le maintien au capital, holding patrimoniale visée à l'Article 27.4 — doit, préalablement et comme condition de l'opération, adhérer purement et simplement au Pacte par la signature d'un acte d'adhésion conforme au modèle figurant en Annexe 3, emportant reprise de l'ensemble des droits et obligations qui y sont attachés.
+54.2 À défaut d'adhésion, l'opération ayant conduit à l'acquisition de la qualité d'Associé est inopposable aux Fondateurs signataires du présent Pacte dans leurs rapports entre eux, et l'agrément prévu à l'Article 22 est réputé refusé.
+Article 55 — Clause pénale (dispositions générales)
+55.1 Chaque manquement identifié comme tel dans le présent Pacte — à savoir, limitativement, aux Articles 7, 15.4, 17, 18.3, 21.2, 25.3, 27.1, 27.4, 36.7, 37.3 et 50.5 — donne lieu, indépendamment de toute réparation complémentaire du préjudice effectivement subi lorsque le Pacte le prévoit, au paiement par le Fondateur défaillant d'une pénalité dont le montant est fixé, pour chaque manquement, à l'article concerné ou, à défaut de montant spécifique, à cinq mille (5 000) euros par manquement constaté.
+55.2 Sauf en cas d'inexécution définitive, cette pénalité n'est due qu'après mise en demeure du Fondateur défaillant, restée sans effet pendant un délai de quinze (15) jours calendaires.
+55.3 Conformément à l'article 1231-5 du Code civil, il est rappelé que le juge conserve la faculté, même d'office, de modérer ou d'augmenter la pénalité ainsi convenue si elle est manifestement excessive ou dérisoire, et de la réduire à proportion de l'intérêt que l'exécution partielle de l'engagement a procuré au créancier. Toute stipulation contraire serait réputée non écrite.
+Article 56 — Intégralité de l'accord
+Le Pacte, en ce compris ses Annexes, exprime l'intégralité de l'accord des Parties sur son objet et se substitue à tout accord, écrit ou verbal, antérieur portant sur le même objet, en ce compris la version du 23 août 2026.
+Article 57 — Divisibilité
+Si l'une quelconque des stipulations du Pacte est jugée nulle, illicite ou inapplicable, cette nullité n'affecte pas la validité des autres stipulations, les Parties s'engageant à négocier de bonne foi une clause de substitution ayant un effet économique équivalent et conforme au droit applicable.
+Article 58 — Non-renonciation
+Le fait, pour une Partie, de ne pas se prévaloir à un moment donné d'un manquement d'une autre Partie à l'une quelconque des stipulations du Pacte ne saurait être interprété comme une renonciation à s'en prévaloir ultérieurement.
+Article 59 — Notifications
+59.1 Toute notification requise par le Pacte est valablement effectuée par lettre recommandée avec demande d'avis de réception, par acte de commissaire de justice, ou par courrier électronique assorti d'un accusé de réception explicite de son destinataire, à l'adresse postale ou électronique indiquée pour chaque Fondateur en page de signature.
+59.2 Sauf stipulation contraire expresse, les délais courent à compter de la date de réception de la notification, laquelle s'entend, pour une lettre recommandée, de la date de première présentation.
+59.3 Tout changement d'adresse postale ou électronique doit être notifié aux autres Parties selon les mêmes modalités, dans les dix (10) Jours Ouvrés. À défaut, les notifications adressées à la dernière adresse connue sont réputées valablement délivrées.
+Article 60 — Incessibilité du Pacte
+Aucune Partie ne peut céder les droits et obligations résultant du Pacte, en dehors des cas d'adhésion prévus à l'Article 54.
+Article 61 — Droit applicable
+Le Pacte est soumis au droit français, tant pour les règles de fond que pour les règles de forme.
+Article 62 — Élection de domicile — Exemplaires
+Pour l'exécution du Pacte, les Parties font élection de domicile aux adresses indiquées en page de signature. Le Pacte est établi en quatre (4) exemplaires originaux, dont un pour chaque Partie et un destiné à être remis à la Société dès son immatriculation.
+Article 63 — Annexes
+Les Annexes suivantes font partie intégrante du Pacte. Chaque Annexe est paraphée par les Parties.
+Annexe
+Intitulé
+Article de renvoi
+Annexe 1
+Mandat spécial pour les actes accomplis pour le compte de la Société en formation
+Articles 8.1 et 8.2
+Annexe 2
+Liste des actifs numériques et droits de propriété intellectuelle apportés
+Articles 10.2, 39.1 et 39.2
+Annexe 2 bis
+Acte d'apport en nature des droits de propriété intellectuelle et actifs numériques
+Article 39.2
+Annexe 3
+Modèle d'acte d'adhésion au Pacte
+Article 54.1
+Annexe 4
+Convention d'Earn-Out — sans objet à la Date de Signature
+Articles 46.1 et 46.2
+Annexe 5
+Projet de Statuts de la Société
+Articles 1, 3.2 et 10.2.5
+Annexe 6
+Mandats sociaux, études et activités accessoires autorisés
+Articles 18.2(iii) et 18.2(iv)
+TITRE XVIII — SIGNATURES
+Fait à Paris, le [JJ/MM/AAAA], en quatre (4) exemplaires originaux.
+Fondateur
+Adresse de notification (postale et électronique)
+Signature
+Adam Talal Kabbara
+24 Grande Rue, 95370 Montigny-lès-Cormeilles
+Courriel : adam.kbr.pro@gmail.com
+Signature précédée de la mention manuscrite « Bon pour promesse de constitution de société et pour pacte d'associés »
+Enzo Manga
+33 rue du Général de Gaulle, 95370 Montigny-lès-Cormeilles
+Courriel : neyneelyth@gmail.com
+Signature précédée de la mention manuscrite « Bon pour promesse de constitution de société et pour pacte d'associés »
+Timeo Durando
+48 rue Maurice Ravel, 95220 Herblay
+Courriel : timeo.durando.g@gmail.com
+Signature précédée de la mention manuscrite « Bon pour promesse de constitution de société et pour pacte d'associés »
+Le présent document constitue un projet de travail. Sa signature doit être précédée d'une relecture par un avocat ou un notaire, qui seuls engagent leur responsabilité professionnelle.

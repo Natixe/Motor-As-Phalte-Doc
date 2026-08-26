@@ -1,0 +1,5 @@
+# Rapports de contrôle de composition (regénérés par node tools/inspect.mjs)
+.inspect/
+
+# Cache Python
+__pycache__/
