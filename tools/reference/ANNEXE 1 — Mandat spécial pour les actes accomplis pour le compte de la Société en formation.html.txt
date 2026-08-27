@@ -41,19 +41,18 @@ Compris dans le plafond du 2.4
 Souscrire les assurances obligatoires ou indispensables au démarrage de l'activité
 Responsabilité civile professionnelle uniquement. Durée initiale n'excédant pas douze (12) mois. L'acquisition de véhicules étant exclue du présent mandat par l'article 2.8, aucune assurance de véhicules ne peut être souscrite à ce titre.
 1 200 € TTC maximum sur douze mois
-2.7 — Plafond global. Le montant cumulé des engagements souscrits au titre du présent mandat ne peut excéder quatre mille (4 000) euros toutes taxes comprises. Tout acte excédant ce plafond global, ou l'un des plafonds unitaires fixés au tableau ci-dessus, sort du mandat : il n'est pas repris de plein droit par la Société et demeure à la charge personnelle de son auteur, sauf reprise expresse décidée par une décision collective des associés postérieurement à l'immatriculation.
+2.7 — Plafond global. Le montant cumulé des engagements souscrits au titre du présent mandat ne peut excéder deux mille cinq cents (2 500) euros toutes taxes comprises. Tout acte excédant ce plafond global, ou l'un des plafonds unitaires fixés au tableau ci-dessus, sort du mandat : il n'est pas repris de plein droit par la Société et demeure à la charge personnelle de son auteur, sauf reprise expresse décidée par une décision collective des associés postérieurement à l'immatriculation.
 2.8 — Actes expressément exclus. Le mandataire ne peut, au titre du présent mandat : souscrire un emprunt, un crédit-bail, une caution, un aval ou une garantie ; recruter un salarié ; acquérir ou prendre à bail un local commercial ; acquérir des véhicules destinés à la revente ; ni conclure un contrat d'une durée supérieure à douze (12) mois.
 ARTICLE 3 — FORME DES ACTES
 Chaque acte accompli en vertu du présent mandat est conclu sous la mention expresse « au nom et pour le compte de la société MOTOR AS'PHALTE, société par actions simplifiée en formation », suivie du nom du mandataire et de la mention « agissant en vertu d'un mandat spécial du [date du présent mandat] ». Le mandataire conserve un original de chaque acte et le tient à la disposition des autres soussignés.
 ARTICLE 4 — ÉTAT DES ACTES ACCOMPLIS
 4.1 Le mandataire établit, au fur et à mesure, un état des actes accomplis pour le compte de la Société en formation, indiquant pour chacun d'eux sa date, son objet, l'identité du cocontractant et l'engagement qui en résulterait pour la Société.
-4.2 Cet état est annexé aux statuts avant leur signature, conformément au deuxième alinéa de l'article R. 210-6 du Code de commerce. La signature des statuts emporte reprise de ces engagements par la Société dès son immatriculation.
-4.3 Le mandataire rend compte de sa mission aux deux autres soussignés à première demande, et en tout état de cause dans les quinze (15) jours suivant l'immatriculation de la Société.
+4.2 Le mandataire rend compte de sa mission aux deux autres soussignés à première demande, et en tout état de cause dans les quinze (15) jours suivant l'immatriculation de la Société.
 ARTICLE 5 — DURÉE ET CESSATION
 5.1 Le présent mandat prend effet à sa date de signature et prend fin de plein droit à la première des dates suivantes : (i) l'immatriculation de la Société au registre du commerce et des sociétés ; (ii) le 31 janvier 2027, correspondant à la Date Butoir définie à l'Article 1 du Pacte ; ou (iii) la constatation de la caducité de la promesse de constitution dans les conditions de l'Article 5.2 du Pacte.
 5.2 Le mandat peut être révoqué à tout moment par décision conjointe des deux autres soussignés, notifiée au mandataire par lettre recommandée avec demande d'avis de réception. La révocation est sans effet sur les actes régulièrement accomplis avant sa réception.
 ARTICLE 6 — RÉMUNÉRATION ET FRAIS
-Le mandat est exercé à titre gratuit. Les sommes avancées par le mandataire pour le compte de la Société en formation, dans les limites de l'article 2, lui sont remboursées par la Société après reprise des engagements, sur présentation des justificatifs.
+Le mandat est exercé à titre gratuit. Les sommes avancées par le mandataire pour le compte de la Société en formation, dans les limites de l'article 2, lui sont remboursées par la Société après reprise des engagements, sur présentation des justificatifs. Dans les rapports entre les soussignés, et par application de l'Article 9 du Pacte, les frais de constitution demeurent supportés par parts égales entre les trois Fondateurs quelle que soit la personne qui les acquitte : le mandataire qui en a avancé plus du tiers en obtient le remboursement de l'excédent auprès des deux autres avant même la reprise par la Société.
 ARTICLE 7 — LOI APPLICABLE
 Le présent mandat est soumis au droit français. Tout différend relatif à son interprétation ou à son exécution suit le régime de règlement des différends prévu à l'Article 53 du Pacte.
 SIGNATURES
@@ -70,4 +69,3 @@ Signature précédée de la mention manuscrite « Bon pour mandat spécial »
 Mandant et mandataire
 Adam Talal Kabbara
 Signature précédée de la mention manuscrite « Bon pour mandat spécial et pour acceptation de mandat »
-Le présent document constitue un projet de travail. Sa signature doit être précédée d'une relecture par un avocat ou un notaire, qui seuls engagent leur responsabilité professionnelle.

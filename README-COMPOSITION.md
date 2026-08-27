@@ -7,7 +7,7 @@ pas une page web : c'est le moteur de composition d'un document A4.
 
 | Fichier | Rôle |
 | --- | --- |
-| `PACT ASSOCIER.html` … `ANNEXE 6 …html` | Les sept actes. Le texte juridique y est intouchable. |
+| `PACTE D'ASSOCIÉS.html` … `ANNEXE 6 …html` | Les sept actes. Le texte juridique y est intouchable. |
 | `document-theme.css` | **Seule feuille de style maintenue à la main.** Géométrie A4, typographie, tableaux, signatures, règles de coupure, habillage écran, corrections d'impression. |
 | `document-styles.js` | **Fichier généré.** Miroir de la feuille ci-dessus, lu par le moteur de pagination. Ne pas éditer. |
 | `document-theme.js` | Composition : structuration sémantique, page de garde, sommaire, cartouches, classement des blocs, pilotage de la pagination, barre d'outils de consultation. |

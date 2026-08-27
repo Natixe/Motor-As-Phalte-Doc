@@ -15,7 +15,7 @@
 
    Usage :
        node tools/make-pdf.mjs                 # tous les documents -> pdf/
-       node tools/make-pdf.mjs "PACT ASSOCIER.html"
+       node tools/make-pdf.mjs "PACTE D'ASSOCIÉS.html"
    ============================================================================= */
 
 import { spawn } from "node:child_process";

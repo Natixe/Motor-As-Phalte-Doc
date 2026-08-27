@@ -16,7 +16,7 @@
 
    Usage :
        node tools/inspect.mjs
-       node tools/inspect.mjs "PACT ASSOCIER.html"
+       node tools/inspect.mjs "PACTE D'ASSOCIÉS.html"
    ============================================================================= */
 
 import { spawn } from "node:child_process";

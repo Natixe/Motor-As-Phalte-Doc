@@ -53,7 +53,7 @@ Les Associés parties au Pacte, représentés par le Président de la Société 
 ARTICLE 6 — DATE D'EFFET
 La présente adhésion prend effet à la date de sa signature. Conformément à l'Article 54.1 du Pacte, elle constitue une condition préalable de l'opération visée à l'article 1 : à défaut d'adhésion, cette opération est inopposable aux Fondateurs et l'agrément prévu à l'Article 22 est réputé refusé.
 SIGNATURES
-Fait à [lieu], le [JJ/MM/AAAA], en [nombre] exemplaires originaux, dont un pour l'Adhérent, un pour chaque Associé en place et un pour être conservé au siège de la Société.
+Fait à Paris, le [JJ/MM/AAAA], en [nombre] exemplaires originaux, dont un pour l'Adhérent, un pour chaque Associé en place et un pour être conservé au siège de la Société.
 Partie
 Nom
 Mention manuscrite et signature
@@ -63,4 +63,3 @@ Signature précédée de la mention manuscrite « Bon pour adhésion pure et sim
 Pour les Associés en place
 [Prénom NOM], Président
 Signature précédée de la mention manuscrite « Bon pour acceptation d'adhésion »
-Le présent document constitue un projet de travail. Sa signature doit être précédée d'une relecture par un avocat ou un notaire, qui seuls engagent leur responsabilité professionnelle.
