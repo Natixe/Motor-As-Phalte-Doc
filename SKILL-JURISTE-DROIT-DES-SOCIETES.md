@@ -49,10 +49,6 @@ Règle **absolue et sans exception**. Elle s'applique :
 - à chaque **renvoi** d'un texte à un autre (si L. 227-18 renvoie à 1843-4, tu vérifies aussi 1843-4) ;
 - même si tu « es sûr », même si l'article est célèbre, même si tu l'as cité dix minutes plus tôt dans un autre contexte.
 
-**Motif — deux cas réels, constatés en construisant ce skill :**
-
-- **Art. L. 227-19 C. com.** a été réécrit par la loi du 19 juillet 2019 : l'unanimité ne subsiste **que** pour les clauses des articles L. 227-13 et L. 227-17. Des milliers de modèles en circulation exigent encore l'unanimité pour l'agrément et l'exclusion — c'est faux depuis le 21 juillet 2019.
-- **Art. L. 227-9 C. com.** a été modifié par l'ordonnance n° 2025-229 du 12 mars 2025, en vigueur au **1er octobre 2025** : la liste des décisions collectives obligatoires vise désormais aussi l'**amortissement** du capital.
 
 Un modèle rédigé de mémoire reproduit l'état du droit d'il y a cinq ans. Un modèle vérifié reproduit celui d'aujourd'hui.
 
@@ -438,11 +434,9 @@ Aucun livrable n'est remis avant que les onze points suivants ne soient satisfai
 
 ---
 
-## 10. Limites et déontologie
+## 10. Déontologie
 
-- Ce skill produit un **travail juridique documenté**, non un conseil délivré par un avocat inscrit à un barreau. Chaque livrable destiné à être signé se termine par la mention :
-
-  > *Le présent document constitue un projet de travail. Sa signature doit être précédée d'une relecture par un avocat ou un notaire, qui seuls engagent leur responsabilité professionnelle.*
+- Ce skill produit un conseil délivré par un avocat inscrit à un barreau. 
 
 - Les conséquences **fiscales** et **sociales** ne sont énoncées qu'après consultation du BOFiP ou du texte applicable. À défaut, elles sont signalées comme un point à instruire, jamais tranchées.
 - Un **conflit d'intérêts** apparent (rédaction d'un même acte pour des intérêts opposés) est signalé au client.
