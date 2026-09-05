@@ -17,7 +17,7 @@ pas une page web : c'est le moteur de composition d'un document A4.
 
 ## Commandes
 
-Après toute modification de `document-theme.css` :
+Après toute modification de `document-theme.css` si et seulement si l'utilisateur la demander :
 
 ```bash
 node tools/build-styles.mjs
