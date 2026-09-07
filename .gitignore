@@ -1,5 +1,6 @@
 # Rapports de contrôle de composition (regénérés par node tools/inspect.mjs)
 .inspect/
-
+graphify-out/
+AGENTS.md
 # Cache Python
 __pycache__/

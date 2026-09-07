@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Annexe 4 — Convention d'earn-out — Motor As'Phalte</title>
+
+  <!-- Feuille de style unique du dossier juridique (écran + impression A4). -->
+  <link rel="stylesheet" href="document-theme.css" data-doc-style />
+
+  <!-- Miroir généré de la feuille, lu par le moteur de pagination en file://.
+       Régénération : node tools/build-styles.mjs -->
+  <script src="document-styles.js" defer></script>
+
+  <!-- Composition documentaire : structure, métadonnées, pagination. -->
+  <script src="document-theme.js" defer></script>
+
+  <!-- Moteur de pagination CSS (Paged.js, licence MIT — vendor/LICENSE-pagedjs.md). -->
+  <script src="vendor/paged.polyfill.min.js" defer></script>
+</head>
+<body
+      data-doc-entity="MOTOR AS'PHALTE"
+      data-doc-name="Annexe 4 — Convention d'earn-out"
+      data-doc-short="Annexe au Pacte d'associés Motor As'Phalte"
+      data-doc-confidential="Confidentiel">
+
+<h1>ANNEXE 4 — CONVENTION D'EARN-OUT</h1>
+<p><em>Annexe au Pacte d'associés Motor As'Phalte — visée aux Articles 46.1 et 46.2 du Pacte</em></p>
+
+<h2>ARTICLE 1 — CONSTAT D'ABSENCE D'EARN-OUT À LA DATE DE SIGNATURE DU PACTE</h2>
+
+<p>Les Fondateurs constatent expressément qu'à la date de signature du Pacte, <strong>aucun mécanisme d'earn-out n'est convenu entre eux</strong>.</p>
+
+<p>L'apport en nature réalisé par Monsieur Adam Talal Kabbara au titre de l'Article 10.2 du Pacte — les actifs numériques et droits de propriété intellectuelle limitativement listés à l'Annexe 2 — est valorisé de manière <strong>ferme et définitive</strong> à cinq cents (500) euros. Cette valorisation ne comporte <strong>aucune part différée ni conditionnelle</strong> et n'est indexée sur l'atteinte d'aucun objectif postérieur à la Date de Constitution.</p>
+
+<p>En conséquence, la présente Annexe est <strong>sans objet</strong> et aucune stipulation d'earn-out n'est opposable entre les Fondateurs à ce jour.</p>
+
+<h2>ARTICLE 2 — CONDITIONS DE SUBSTITUTION FUTURE</h2>
+
+<p>Conformément à l'Article 46.1 du Pacte, si les Fondateurs venaient ultérieurement à convenir d'un mécanisme d'earn-out — qu'il porte sur la valorisation d'un apport en nature ou sur le prix d'une future cession de Titres à un tiers —, une convention spécifique se substituerait à la présente Annexe par voie d'avenant adopté à l'unanimité dans les conditions de l'Article 52.</p>
+
+<p>Cette convention devrait, à peine d'inefficacité, préciser au minimum les éléments suivants :</p>
+
+<table>
+<thead><tr><th>Élément</th><th>Exigence de rédaction</th></tr></thead>
+<tbody>
+<tr><td><strong>Assiette</strong></td><td>Agrégat de référence défini sans ambiguïté (chiffre d'affaires, marge brute, EBITDA, nombre de véhicules vendus), avec ses règles de calcul et les retraitements applicables.</td></tr>
+<tr><td><strong>Période de référence</strong></td><td>Dates de début et de fin, avec traitement explicite des exercices incomplets.</td></tr>
+<tr><td><strong>Méthode de calcul</strong></td><td>Formule complète, seuils de déclenchement, paliers éventuels, plafond et plancher, règle d'arrondi.</td></tr>
+<tr><td><strong>Engagements de gestion</strong></td><td>Obligations pesant sur les dirigeants pendant la période, destinées à éviter que l'assiette ne soit artificiellement minorée (maintien du périmètre d'activité, absence de transfert d'activité vers une entité liée, politique de prix, niveau d'investissement).</td></tr>
+<tr><td><strong>Modalités de règlement</strong></td><td>Paiement en numéraire ou en Titres complémentaires, date d'exigibilité, intérêts de retard.</td></tr>
+<tr><td><strong>Sort en cas de départ</strong></td><td>Effet du départ du bénéficiaire pendant la période d'earn-out, selon la qualification Good Leaver ou Bad Leaver des Articles 31 et 32.</td></tr>
+<tr><td><strong>Audit contradictoire</strong></td><td>Procédure de contestation du calcul, délai, désignation d'un tiers indépendant, répartition des frais, caractère définitif de sa décision.</td></tr>
+<tr><td><strong>Traitement fiscal</strong></td><td>Point à instruire auprès d'un conseil fiscal avant signature. La qualification fiscale d'un complément de prix conditionnel n'est pas tranchée dans le présent document.</td></tr>
+</tbody>
+</table>
+
+<h2> SIGNATURES</h2>
+<p>Fait à Paris, le <strong>[JJ/MM/AAAA]</strong>, en quatre (4) exemplaires originaux.</p>
+<table>
+<thead><tr><th>Fondateur</th><th>Adresse</th><th>Signature</th></tr></thead>
+<tbody>
+<tr><td><strong>Adam Talal Kabbara</strong></td><td>24 Grande Rue, 95370 Montigny-lès-Cormeilles</td><td>Signature précédée de la mention manuscrite « Bon pour constat d'absence d'earn-out »</td></tr>
+<tr><td><strong>Enzo Manga</strong></td><td>33 rue du Général de Gaulle, 95370 Montigny-lès-Cormeilles</td><td>Signature précédée de la mention manuscrite « Bon pour constat d'absence d'earn-out »</td></tr>
+<tr><td><strong>Timeo Durando</strong></td><td>48 rue Maurice Ravel, 95220 Herblay</td><td>Signature précédée de la mention manuscrite « Bon pour constat d'absence d'earn-out »</td></tr>
+</tbody>
+</table>
+
+<hr/>
+
+
+</body>
+</html>
