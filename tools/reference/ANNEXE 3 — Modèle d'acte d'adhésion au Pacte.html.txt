@@ -3,7 +3,7 @@ Annexe au Pacte d'associés Motor As'Phalte — visée aux Articles 54.1 et 54.3
 IDENTIFICATION DE L'ADHÉRENT
 Personne physique : Je soussigné(e) [Prénom NOM], né(e) le [date] à [lieu], de nationalité [●], [situation et régime matrimonial], demeurant [adresse complète], adresse électronique [●] ;
 ou Personne morale : La société [Dénomination], [forme] au capital de [●] euros, dont le siège social est [adresse], immatriculée au registre du commerce et des sociétés de [ville] sous le numéro [SIREN], représentée par [Prénom NOM], ès qualités de [fonction], dûment habilité(e) aux fins des présentes, adresse électronique [●] ;
-L'Adhérent reconnaît avoir été informé, préalablement à la signature des présentes, de ce que le capital de la Société est divisé en deux catégories d'actions dans les conditions de l'article 8 des Statuts : les actions de catégorie A, actions de préférence assorties d'un droit de vote double, et les actions de catégorie B, actions ordinaires assorties d'une voix par action. Il reconnaît avoir reçu un exemplaire à jour des Statuts et avoir pris connaissance de l'article 8 des Statuts.
+L'Adhérent reconnaît avoir reçu un exemplaire à jour des Statuts et en avoir pris connaissance.
 L'Adhérent déclare, s'il est une personne physique, être majeur et jouir de sa pleine capacité juridique et, s'il est une personne morale, être régulièrement constitué, ne faire l'objet d'aucune procédure de sauvegarde, de redressement ou de liquidation judiciaire ni d'aucune procédure de dissolution, et être valablement représenté par le signataire des présentes.
 ci-après l'« Adhérent ».
 ARTICLE 1 — OPÉRATION À L'ORIGINE DE L'ADHÉSION
@@ -17,13 +17,11 @@ Date projetée de réalisation de l'opération
 Cédant ou émetteur
 [Prénom NOM ou « la Société »]
 Nombre de Titres à acquérir ou à souscrire
-[nombre] actions de catégorie B (actions ordinaires), numérotées de [●] à [●]
-Quote-part du capital après opération
+[nombre] actions ordinaires, numérotées de [●] à [●]
+Quote-part du capital et des droits de vote après opération
 [●] %
-Quote-part des droits de vote après opération
-[●] %, compte tenu du droit de vote double attaché aux actions de catégorie A
-Répartition des droits de vote après opération
-[●] % pour le titulaire des actions de catégorie A ; [●] % pour les autres associés
+Répartition du capital et des droits de vote après opération
+[●] % / [●] % / [●] %
 Qualité de l'Adhérent
 [Nouvel Associé / Investisseur au sens de l'Article 1 du Pacte] — Cas d'adhésion visé à l'Article 54.1 du Pacte : [cessionnaire agréé / héritier ou légataire optant pour le maintien au capital / holding patrimoniale d'un Fondateur au sens de l'Article 27.4]
 ARTICLE 2 — VERSION DU PACTE OBJET DE L'ADHÉSION
@@ -39,7 +37,7 @@ ARTICLE 3 — DÉCLARATIONS ET ENGAGEMENTS DE L'ADHÉRENT
 L'Adhérent déclare et reconnaît :
 3.1 Avoir reçu un exemplaire complet du Pacte dans la version visée à l'article 2, en ce compris l'ensemble de ses Annexes et des avenants qui y sont mentionnés, ainsi qu'un exemplaire à jour des Statuts, et en avoir pris connaissance dans son intégralité, disposant du temps et de la faculté de se faire assister du conseil de son choix.
 3.2 Avoir été spécialement informé de la portée des stipulations suivantes, qu'il déclare accepter sans réserve :
-l'existence de deux catégories d'actions et le droit de vote double attaché aux actions de catégorie A (article 8 des Statuts), ainsi que la répartition des droits de vote qui en résulte, telle que portée à l'article 1 des présentes ;
+la répartition du capital et des droits de vote après l'opération, telle que portée à l'article 1 des présentes ;
 les majorités applicables aux décisions collectives, à savoir la majorité qualifiée de 66,67 % des droits de vote existants (Article 13.1 du Pacte et article 28.6 des Statuts), la majorité de 65 % en matière d'exclusion et les décisions requérant l'unanimité (Article 13.2 du Pacte et article 28.7 des Statuts) ;
 l'inaliénabilité temporaire des Titres (Article 21) ;
 la clause d'agrément préalable de toute cession (Article 22) et le droit de préemption des Fondateurs (Article 23) ;

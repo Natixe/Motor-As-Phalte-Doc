@@ -14,12 +14,12 @@ Description précise et justificatif
 1
 Nom de domaine
 M. Adam Talal Kabbara
-[ ]
+mars 2026
 motorasphalte.com, avec le droit d'en demander le transfert au nom de la Société auprès du registrar. Justificatif : relevé du compte registrar et code ou procédure de transfert.
 2
 Site internet, application web, codes sources et CRM
 M. Adam Talal Kabbara
-[ ]
+mars 2026
 Site et application web Motor As'Phalte, codes sources, documentation, matériel de conception préparatoire au sens du 13° de l'article L. 112-2 du Code de la propriété intellectuelle et éléments techniques nécessaires à leur exploitation, ainsi que le CRM en tant qu'outil logiciel. Sont exclus toute base, export, historique ou sauvegarde contenant des données à caractère personnel. Justificatifs : accès au dépôt de code, inventaire des fichiers et accès d'administration.
 3
 Comptes de réseaux sociaux — éléments remis, hors apport
@@ -33,7 +33,7 @@ Ces comptes ne font pas l'objet de l'apport en nature : ils procèdent de contra
 4
 Identité visuelle et contenus numériques existants
 M. Adam Talal Kabbara
-[ ]
+mars 2026
 Logotype, charte graphique, déclinaisons, maquettes, photographies, vidéos, textes et publications déjà créés pour Motor As'Phalte, à l'exclusion de tout élément non détenu par l'Apporteur. Justificatifs : fichiers sources et inventaire daté remis à la Société.
 ANNEXE 2 BIS — ACTE D'APPORT EN NATURE D'ACTIFS NUMÉRIQUES ET DE DROITS DE PROPRIÉTÉ INTELLECTUELLE
 Acte annexé aux statuts — visé aux Articles 10.2 et 39.2 du Pacte
@@ -65,7 +65,7 @@ Toute la durée légale de protection des droits d'auteur, y compris ses proroga
 ARTICLE 4 — DROIT MORAL
 Le présent apport ne porte que sur les droits patrimoniaux. L'Apporteur conserve son droit moral, lequel est perpétuel, inaliénable et imprescriptible. Il s'engage toutefois à ne pas exercer son droit au respect de l'œuvre d'une manière qui ferait obstacle à l'exploitation normale des Œuvres par la Société, notamment aux adaptations et modifications visées à l'article 2.3. L'Apporteur consent, pour les seules exploitations publicitaires et promotionnelles des Œuvres visées à l'Annexe 2, à ce que son nom ne soit pas mentionné, sans que ce consentement puisse être étendu à d'autres œuvres ni à d'autres modes d'exploitation, ni être analysé comme une renonciation à son droit moral, lequel demeure inaliénable en application de l'article L. 121-1 du Code de la propriété intellectuelle. S'agissant des Œuvres constituant des logiciels, il est rappelé qu'en application de l'article L. 121-7 du même code, l'Apporteur ne peut s'opposer à leur modification par la Société lorsqu'elle n'est préjudiciable ni à son honneur ni à sa réputation, ni exercer son droit de repentir ou de retrait.
 ARTICLE 5 — RÉMUNÉRATION DE L'APPORT
-La valeur de l'apport est fixée à cinq cents (500) euros. En rémunération, il est attribué à l'Apporteur cinq cents (500) actions de catégorie A d'un (1) euro de valeur nominale chacune, dans les conditions prévues par les articles 6.2 et 8 des Statuts. L'évaluation de l'apport faite au présent article est indépendante de celle de l'avantage particulier attaché aux actions de catégorie A, laquelle relève du commissaire aux avantages particuliers désigné en application de l'article 8.5 des Statuts. Aucune somme en numéraire n'est due à l'Apporteur au titre du présent acte.
+La valeur de l'apport est fixée à cinq cents (500) euros. En rémunération, il est attribué à l'Apporteur cinq cents (500) actions d'un (1) euro de valeur nominale chacune, dans les conditions prévues par l'article 6.2 des Statuts. Aucune somme en numéraire n'est due à l'Apporteur au titre du présent acte.
 Les Parties conviennent que cette rémunération est évaluée forfaitairement, conformément à l'article L. 131-4 du Code de la propriété intellectuelle : s'agissant des Œuvres constituant des logiciels, en application du 5° dudit article ; s'agissant des autres Œuvres, en application des 1°, 2°, 3° et 4° du même article, dès lors que ces Œuvres sont exploitées comme éléments d'identité et de communication de la Société et non comme objets d'une exploitation autonome : leur contribution ne constitue pas l'un des éléments essentiels de la création intellectuelle des contenus au sein desquels elles sont reprises et leur utilisation ne présente qu'un caractère accessoire par rapport à l'objet exploité, de sorte que la base de calcul d'une participation proportionnelle ne peut être pratiquement déterminée, que les moyens d'en contrôler l'application font défaut et que les frais des opérations de calcul et de contrôle seraient hors de proportion avec les résultats à atteindre.
 ARTICLE 5 BIS — CARACTÈRE APPROPRIÉ DE LA RÉMUNÉRATION ET MÉCANISME DE RÉVISION
 5 bis.1 Les Parties conviennent que la rémunération fixée à l'article 5 est appropriée au sens de l'article L. 131-4 du Code de la propriété intellectuelle, au regard de l'état de développement des Œuvres à la date des présentes, de l'absence de toute exploitation commerciale autonome de celles-ci et de la circonstance qu'elles sont apportées à une société en formation dont l'Apporteur détient 43,30 % du capital.

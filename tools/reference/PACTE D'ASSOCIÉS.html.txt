@@ -89,37 +89,31 @@ Article 8 — Actes accomplis pour le compte de la Société en formation
 8.2 Conformément à l'article R. 210-6 du Code de commerce, les Fondateurs conviennent que les engagements pris en vertu de ce mandat sont déterminés et que leurs modalités sont précisées par le mandat, de sorte que l'immatriculation de la Société au registre du commerce et des sociétés emporte de plein droit reprise de ces engagements par la Société.
 8.3 À défaut de reprise, la ou les personnes ayant agi au nom de la Société en formation demeurent seules tenues, solidairement et indéfiniment, des engagements ainsi souscrits (art. L. 210-6, second alinéa, C. com.). Les Fondateurs conviennent, dans leurs rapports entre eux, de supporter la charge définitive de ces engagements par parts égales, dès lors qu'ils ont été souscrits conformément au mandat de l'Annexe 1.
 Article 9 — Frais de constitution
-Les frais liés à la constitution de la Société — frais de greffe, honoraires de rédaction des Statuts, frais de publication de l'annonce légale de constitution et honoraires du commissaire aux avantages particuliers désigné en application de l'article 8.5 des Statuts — sont supportés par parts égales entre les Fondateurs, quelle que soit la personne qui les acquitte matériellement, y compris lorsqu'ils sont payés par le mandataire en exécution du mandat spécial figurant en Annexe 1. Le Fondateur qui en a acquitté une part supérieure au tiers en obtient le remboursement de l'excédent auprès des deux autres, par parts égales, dans les quinze (15) jours calendaires de la présentation des justificatifs. La Société rembourse ensuite chaque Fondateur à hauteur de ce qu'il a définitivement supporté, après reprise des engagements conformément à l'Article 8 et dans la limite de sa trésorerie disponible.
+Les frais liés à la constitution de la Société — frais de greffe, honoraires de rédaction des Statuts et frais de publication de l'annonce légale de constitution — sont supportés par parts égales entre les Fondateurs, quelle que soit la personne qui les acquitte matériellement, y compris lorsqu'ils sont payés par le mandataire en exécution du mandat spécial figurant en Annexe 1. Le Fondateur qui en a acquitté une part supérieure au tiers en obtient le remboursement de l'excédent auprès des deux autres, par parts égales, dans les quinze (15) jours calendaires de la présentation des justificatifs. La Société rembourse ensuite chaque Fondateur à hauteur de ce qu'il a définitivement supporté, après reprise des engagements conformément à l'Article 8 et dans la limite de sa trésorerie disponible.
 TITRE V — RÉPARTITION INITIALE DU CAPITAL
 Article 10 — Apports, répartition initiale du capital et apport en nature
 10.1 À la Date de Constitution, le capital social de la Société, fixé à quatre mille (4 000) euros, divisé en quatre mille (4 000) actions d'un (1) euro de valeur nominale chacune, entièrement souscrites et intégralement libérées, sera réparti comme suit :
 Fondateur
 Nature et montant de l'apport
 Nombre de Titres
-% du capital
-% des droits de vote
+% du capital et des droits de vote
 Adam Talal Kabbara
 Apport en nature : actifs numériques et droits de propriété intellectuelle identifiés en Annexe 2, évalués à cinq cents (500) euros — Article 10.2
 Apport en numéraire : mille deux cent trente-deux (1 232) euros
 1 732
 43,30 %
-60,43 %
 Enzo Manga
 Apport en numéraire : mille cent trente-quatre (1 134) euros
 1 134
 28,35 %
-19,78 %
 Timeo Durando
 Apport en numéraire : mille cent trente-quatre (1 134) euros
 1 134
 28,35 %
-19,78 %
 Total
 4 000 euros
 4 000
 100 %
-100 %
-Les actions de catégorie A détenues par Adam Talal Kabbara sont assorties d'un droit de vote double dans les conditions de l'article 8 des Statuts. Les pourcentages sont arrondis au centième.
 Les apports en numéraire sont libérés par virement bancaire sur le compte ouvert au nom de la Société en formation, à l'exclusion de tout versement en espèces, contre délivrance de l'attestation de dépôt des fonds.
 10.2 — Apport en nature d'actifs numériques et de droits de propriété intellectuelle identifiés
 10.2.1 Adam Talal Kabbara apporte à la Société, sous les garanties ordinaires et de droit, les seuls actifs identifiés de manière exhaustive en Annexe 2 : le nom de domaine motorasphalte.com ; le site internet, l'application web, les codes sources et le CRM en tant qu'outil logiciel, à l'exclusion de toute base de données contenant des données à caractère personnel ; les contenus publiés sur les comptes de réseaux sociaux listés en Annexe 2, les comptes eux-mêmes n'étant pas compris dans l'apport et faisant l'objet de la remise d'accès prévue à cette annexe ; ainsi que l'identité visuelle et les contenus numériques existants.
@@ -388,7 +382,7 @@ Article 41 — Augmentation de capital réservée aux Fondateurs
 Article 42 — Anti-dilution entre Fondateurs et seuils planchers de participation
 42.1 Sauf décision contraire prise à l'unanimité des Fondateurs, toute opération emportant émission de Titres nouveaux est structurée de manière à ce que la dilution en résultant affecte les trois Fondateurs proportionnellement à leur participation respective au capital avant l'opération, soit, à la Date de Constitution, dans un rapport constant de 43,30 % : 28,35 % : 28,35 % du capital social.
 42.2 Toute opération qui aurait pour effet de diluer un Fondateur en deçà de vingt-cinq pour cent (25 %) du capital sans son consentement exprès et écrit est soumise à l'unanimité des Fondateurs, conformément à l'Article 13.2(d).
-42.3 — Seuil de préservation des prérogatives du Président. Les Fondateurs constatent qu'une participation strictement supérieure à trente-cinq pour cent (35 %) des droits de vote existants est nécessaire pour faire obstacle tant aux décisions requérant la majorité de 66,67 % qu'à une décision d'exclusion prise à la majorité de 65 %, et qu'une participation strictement supérieure à quarante pour cent (40 %) des droits de vote existants est nécessaire pour conserver le bénéfice de la présomption de contrôle du II de l'article L. 233-3 du Code de commerce, et qu'une participation strictement supérieure à cinquante pour cent (50 %) des droits de vote existants caractérise le contrôle au sens du 1° du I du même article, ce dernier seuil étant le plus élevé des trois. En conséquence, aucune opération sur le capital, ni aucune émission, attribution ou conversion de valeurs mobilières, ne peut avoir pour effet de porter la participation d'Adam Talal Kabbara à un niveau égal ou inférieur à quarante pour cent (40 %) des droits de vote existants, ni de faire en sorte qu'un autre associé détienne, directement ou indirectement, une fraction des droits de vote égale ou supérieure à la sienne, sans son accord exprès et écrit, joint à la décision. Toute décision adoptée en violation du présent article lui est inopposable et déclenche la clause pénale de l'Article 55, dont le montant est, pour ce seul manquement, égal à la valeur des Titres dont Adam Talal Kabbara a été privé du fait de l'opération, déterminée conformément à l'Article 30.2 à la date de la décision, sans pouvoir être inférieur à cinq mille (5 000) euros ni supérieur à vingt mille (20 000) euros par Fondateur défaillant.
+42.3 — Seuil de préservation des prérogatives du Président. Les Fondateurs constatent qu'une participation strictement supérieure à trente-cinq pour cent (35 %) des droits de vote existants est nécessaire pour faire obstacle tant aux décisions requérant la majorité de 66,67 % qu'à une décision d'exclusion prise à la majorité de 65 %, et qu'une participation strictement supérieure à quarante pour cent (40 %) des droits de vote existants est nécessaire pour conserver le bénéfice de la présomption de contrôle du II de l'article L. 233-3 du Code de commerce, ce second seuil étant le plus élevé des deux. En conséquence, aucune opération sur le capital, ni aucune émission, attribution ou conversion de valeurs mobilières, ne peut avoir pour effet de porter la participation d'Adam Talal Kabbara à un niveau égal ou inférieur à quarante pour cent (40 %) des droits de vote existants, ni de faire en sorte qu'un autre associé détienne, directement ou indirectement, une fraction des droits de vote égale ou supérieure à la sienne, sans son accord exprès et écrit, joint à la décision. Toute décision adoptée en violation du présent article lui est inopposable et déclenche la clause pénale de l'Article 55, dont le montant est, pour ce seul manquement, égal à la valeur des Titres dont Adam Talal Kabbara a été privé du fait de l'opération, déterminée conformément à l'Article 30.2 à la date de la décision, sans pouvoir être inférieur à cinq mille (5 000) euros ni supérieur à vingt mille (20 000) euros par Fondateur défaillant.
 Article 43 — Rééquilibrage consécutif à une émission à prix réduit
 43.1 Dans l'hypothèse où la Société émettrait de nouveaux Titres au profit d'un Investisseur à un prix par Titre inférieur à la valeur par Titre retenue à la Date de Constitution, et où cette opération affecterait un Fondateur proportionnellement plus qu'un autre du seul fait du prix de l'opération, les Fondateurs s'engagent à rétablir entre eux le rapport de 43,30 % : 28,35 % : 28,35 % par la mise en œuvre de l'un des mécanismes suivants, arrêté d'un commun accord :
 (a) cession de Titres entre Fondateurs, du ou des Fondateurs relativement avantagés au profit du ou des Fondateurs relativement désavantagés, à la valeur nominale ; ou

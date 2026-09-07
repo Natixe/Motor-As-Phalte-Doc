@@ -64,49 +64,29 @@ Total égal au capital social
 quatre mille (4 000) euros
 Article 7 — Capital social
 Le capital social est fixé à la somme de quatre mille (4 000) euros.
-Il est divisé en quatre mille (4 000) actions d'un (1) euro de valeur nominale chacune, intégralement libérées, réparties en deux catégories dans les conditions de l'article 8 et attribuées comme suit :
+Il est divisé en quatre mille (4 000) actions d'un (1) euro de valeur nominale chacune, intégralement libérées, toutes de même catégorie, réparties comme suit :
 Associé
 Nombre d'actions
-Catégorie
 Numérotation
-Nombre de voix
-% du capital
-% des droits de vote
+% du capital et des droits de vote
 Adam Talal Kabbara
 1 732
-A
 1 à 1 732
-3 464
 43,30 %
-60,43 %
 Enzo Manga
 1 134
-B
 1 733 à 2 866
-1 134
 28,35 %
-19,78 %
 Timeo Durando
 1 134
-B
 2 867 à 4 000
-1 134
 28,35 %
-19,78 %
 Total
 4 000
 —
-—
-5 732
 100 %
-100 %
-Article 8 — Catégories d'actions et avantages particuliers
-8.1 Il est créé, à la constitution, deux catégories d'actions : les actions de catégorie A, actions de préférence au sens de l'article L. 228-11 du Code de commerce, chaque action de catégorie A donnant droit à deux (2) voix dans toutes les décisions collectives ; et les actions de catégorie B, actions ordinaires, chaque action de catégorie B donnant droit à une (1) voix.
-8.2 Les actions de catégorie A et les actions de catégorie B confèrent des droits pécuniaires strictement identiques : même quote-part dans les bénéfices, les réserves, le boni de liquidation et le droit préférentiel de souscription, à proportion du nombre d'actions détenues. Aucun droit financier particulier n'est attaché aux actions de catégorie A.
-8.3 Les mille sept cent trente-deux (1 732) actions souscrites par Monsieur Adam Talal Kabbara sont des actions de catégorie A. Les deux mille deux cent soixante-huit (2 268) actions souscrites par Monsieur Enzo Manga et Monsieur Timeo Durando sont des actions de catégorie B.
-8.4 Les actions de catégorie A sont converties de plein droit en actions de catégorie B, action pour action, dès la survenance du premier des événements suivants : (a) le Transfert d'une action de catégorie A au profit de toute personne autre que son titulaire initial, pour les seules actions transférées ; (b) la cessation, pour quelque cause que ce soit, des fonctions de Président de la Société exercées par le titulaire des actions de catégorie A ; (c) la décision unanime des associés. Le Président, ou à défaut tout associé, constate la conversion et met à jour les comptes individuels d'associés et le registre des mouvements de titres dans les dix (10) jours ouvrés de la survenance de l'événement. La conversion est opposable à la Société et aux tiers dès cette inscription.
-8.5 Les droits particuliers attachés aux actions de catégorie A étant stipulés au profit d'une personne nommément désignée, il est fait application des dispositions relatives aux avantages particuliers auxquelles renvoie l'article L. 228-15 du Code de commerce. Le rapport du commissaire aux avantages particuliers est annexé aux présents statuts.
-8.6 Toute modification des droits attachés aux actions de catégorie A requiert, outre une décision collective prise dans les conditions de l'article 28.6, le consentement écrit et préalable des titulaires d'actions de catégorie A. Aucun autre avantage particulier n'est stipulé par les présents statuts.
+Article 8 — Avantages particuliers
+Les présents statuts ne stipulent aucun avantage particulier.
 Article 9 — Modifications du capital, admission de souscripteurs nouveaux et délégations
 Le capital social peut être augmenté, réduit ou amorti conformément aux dispositions législatives et réglementaires en vigueur, par décision collective des associés prise dans les conditions de l'article 28.
 Toute augmentation de capital réservée à une personne qui n'a pas la qualité d'associé requiert l'agrément préalable du souscripteur pressenti par la collectivité des associés, statuant dans les conditions de majorité de l'article 28.6. La décision collective qui approuve l'augmentation de capital et l'identité du souscripteur vaut agrément de celui-ci ; la procédure des articles 16 et 17, propre aux Transferts de Titres, n'est pas applicable.
@@ -123,7 +103,7 @@ Article 12 — Indivisibilité — Nue-propriété et usufruit
 12.3 Pour les décisions autres que celles relatives à l'affectation des bénéfices, le nu-propriétaire et l'usufruitier peuvent convenir que le droit de vote sera exercé par l'usufruitier. Une telle convention est opposable à la Société à compter de sa notification au Président. Elle ne peut, en aucun cas, priver le nu-propriétaire ou l'usufruitier de son droit de participer aux décisions collectives.
 Article 13 — Droits et obligations attachés aux actions
 13.1 Chaque action donne droit, dans la propriété de l'actif, dans le partage des bénéfices et dans le boni de liquidation, à une part proportionnelle à la quotité du capital qu'elle représente.
-13.2 Chaque action donne en outre droit au vote, dans les conditions de l'article 8, et à la représentation dans les décisions collectives, ainsi que le droit d'être informé sur la marche de la Société et d'obtenir communication des documents sociaux aux époques et dans les conditions prévues par la loi et les présents statuts.
+13.2 Chaque action donne en outre droit au vote et à la représentation dans les décisions collectives, ainsi que le droit d'être informé sur la marche de la Société et d'obtenir communication des documents sociaux aux époques et dans les conditions prévues par la loi et les présents statuts.
 13.3 Les associés ne sont responsables du passif social qu'à concurrence de leurs apports respectifs, sous réserve de la responsabilité solidaire quinquennale visée à l'article 6.2.5.
 13.4 Les droits et obligations attachés à l'action suivent le titre en quelque main qu'il passe.
 13.5 La propriété d'une action comporte de plein droit adhésion aux présents statuts et aux décisions collectives des associés.
@@ -250,7 +230,7 @@ Lorsqu'une personne morale exerce les fonctions de Président, ses dirigeants so
 En cas de vacance de la présidence par démission, décès, incapacité, interdiction de gérer ou révocation, la collectivité des associés est convoquée sans délai à l'effet de nommer un nouveau Président. Si aucune nomination n'est intervenue dans les soixante (60) jours calendaires de la vacance, le Président est nommé, à la majorité simple des droits de vote existants, pour une durée d'un (1) an non renouvelable, à seule fin d'assurer la continuité de la représentation de la Société et l'accomplissement des actes conservatoires et de gestion courante. À défaut de nomination dans un délai de quatre-vingt-dix (90) jours calendaires, tout associé peut demander au président du tribunal de commerce compétent, statuant selon la procédure accélérée au fond, la désignation d'un administrateur provisoire.
 23.3 — Démission. Le Président peut démissionner moyennant un préavis de trois (3) mois notifié à chacun des associés, sauf dispense accordée par décision collective. Une démission donnée à contretemps engage sa responsabilité.
 23.4 — Révocation. Le Président est révocable à tout moment par décision collective des associés statuant dans les conditions de l'article 28.6. La révocation n'a pas à être motivée et n'ouvre droit à aucune indemnité, sauf si elle intervient dans des conditions vexatoires ou portant atteinte à l'honneur du Président, ou en violation du principe du contradictoire. Le Président, s'il est associé, prend part au vote sur sa propre révocation.
-Les associés reconnaissent expressément qu'en l'état de la répartition du capital et des droits de vote fixée aux articles 7 et 8, la majorité requise au présent article ne peut être réunie sans la voix de Monsieur Adam Talal Kabbara.
+Les associés reconnaissent expressément qu'en l'état de la répartition du capital fixée à l'article 7, la majorité requise au présent article ne peut être réunie sans la voix de Monsieur Adam Talal Kabbara.
 23.5 — Pouvoirs à l'égard des tiers. Le Président représente la Société à l'égard des tiers. Il est investi des pouvoirs les plus étendus pour agir en toute circonstance au nom de la Société dans la limite de l'objet social. Dans les rapports avec les tiers, la Société est engagée même par les actes du Président qui ne relèvent pas de l'objet social, à moins qu'elle ne prouve que le tiers savait que l'acte dépassait cet objet ou qu'il ne pouvait l'ignorer compte tenu des circonstances, étant exclu que la seule publication des statuts suffise à constituer cette preuve.
 23.6 — Limitations internes de pouvoirs. À titre de règlement intérieur non opposable aux tiers, le Président ne peut accomplir les actes relevant du domaine réservé à la collectivité des associés défini à l'article 27 sans y avoir été préalablement autorisé. Conformément au dernier alinéa de l'article L. 227-6 du Code de commerce, les dispositions statutaires limitant les pouvoirs du Président sont inopposables aux tiers : leur violation n'affecte pas la validité de l'acte à l'égard du cocontractant, mais engage la responsabilité du Président envers la Société et les associés et constitue un motif d'exclusion au sens de l'article 19.2(a).
 23.7 — Rémunération. La rémunération du Président, ainsi que ses modalités, sont fixées par décision collective des associés dans les conditions de l'article 28.6. Le Président est en outre remboursé de ses frais de représentation et de déplacement sur justificatifs.
@@ -304,8 +284,8 @@ Article 28 — Décisions collectives : modalités, majorités et nullité
 28.2 — Convocation. L'assemblée est convoquée par le Président, agissant de sa propre initiative ou à la demande d'un ou plusieurs associés représentant au moins 25 % du capital et des droits de vote, auquel cas le Président est tenu de déférer à cette demande dans les quinze (15) jours de sa réception. À défaut, l'assemblée peut être convoquée par les associés demandeurs eux-mêmes.
 La convocation est adressée par tous moyens permettant d'en établir la réception, quinze (15) jours calendaires au moins avant la date de réunion. Elle comporte l'indication de l'ordre du jour, de l'heure et du lieu de la réunion, et est accompagnée de tous documents nécessaires à l'information des associés.
 Nonobstant ce qui précède, lorsque tous les associés sont présents ou représentés, l'assemblée est valablement tenue même en cas de convocation verbale et sans délai.
-28.3 — Quorum. L'assemblée ne délibère valablement, sur première convocation, que si les associés présents ou représentés possèdent au moins la moitié des droits de vote existants. Sur seconde convocation portant sur le même ordre du jour, l'assemblée délibère valablement sans condition de quorum. La convocation à la seconde assemblée peut être adressée en même temps que la convocation à la première, sous la condition que le quorum ne soit pas réuni ; la seconde assemblée se tient alors au plus tôt le sixième (6e) jour calendaire suivant la date fixée pour la première.
-28.4 — Participation et représentation. Chaque associé a le droit de participer aux décisions collectives, personnellement ou par l'intermédiaire d'un mandataire de son choix. Chaque action donne droit à une voix, sous réserve du droit de vote double attaché aux actions de catégorie A en application de l'article 8.
+28.3 — Quorum. L'assemblée ne délibère valablement, sur première convocation, que si les associés présents ou représentés possèdent au moins la moitié des actions ayant le droit de vote. Sur seconde convocation portant sur le même ordre du jour, l'assemblée délibère valablement sans condition de quorum. La convocation à la seconde assemblée peut être adressée en même temps que la convocation à la première, sous la condition que le quorum ne soit pas réuni ; la seconde assemblée se tient alors au plus tôt le sixième (6e) jour calendaire suivant la date fixée pour la première.
+28.4 — Participation et représentation. Chaque associé a le droit de participer aux décisions collectives, personnellement ou par l'intermédiaire d'un mandataire de son choix. Chaque action donne droit à une voix.
 L'assemblée est présidée par le Président de la Société ou, à défaut, par un président de séance élu par l'assemblée. Il est tenu une feuille de présence et dressé un procès-verbal signé par le président de séance et le secrétaire désigné par l'assemblée.
 28.5 — Consultation écrite. En cas de consultation écrite, le texte des résolutions et les documents nécessaires à l'information des associés sont adressés à chacun par tous moyens permettant d'en établir la réception. Les associés disposent d'un délai de quinze (15) jours calendaires à compter de la réception des projets de résolutions pour émettre leur vote par écrit. L'associé n'ayant pas répondu dans ce délai est considéré comme ayant rejeté les résolutions proposées. Le résultat est consigné dans un procès-verbal établi et signé par le Président, mentionnant la réponse de chaque associé.
 Aucune condition de quorum n'est applicable à la consultation écrite : la décision est valablement adoptée dès lors que la majorité requise par l'article 28.6, calculée sur les droits de vote existants, est atteinte. Les associés reconnaissent expressément que la condition de quorum prévue à l'article 28.3 est propre aux assemblées et que son inapplication à la consultation écrite procède d'un choix délibéré de leur part.
@@ -389,7 +369,7 @@ Monsieur Adam Talal KABBARA, né le 28 septembre 2006 à Paris 15e arrondissemen
 Monsieur Adam Talal Kabbara déclare accepter ces fonctions et n'être frappé d'aucune mesure ni d'aucune condamnation susceptible de lui interdire d'exercer un mandat social ou de gérer, administrer ou diriger une personne morale.
 Le mandat du premier Président est exercé à titre gratuit au démarrage de la Société. Il pourra ultérieurement être rémunéré par décision collective des associés, dans les conditions prévues aux articles 23.7 et 27.2 des présents statuts.
 Article 38 — Absence de commissaire aux comptes à la constitution
-La Société ne dépassant, à la date des présentes, aucun des seuils rendant obligatoire la désignation d'un commissaire aux comptes, il n'est pas procédé à cette désignation, sans préjudice de l'article 8.5. La collectivité des associés y procédera dès lors que les conditions légales en seront réunies, dans les conditions de l'article 26.
+La Société ne dépassant, à la date des présentes, aucun des seuils rendant obligatoire la désignation d'un commissaire aux comptes, il n'est pas procédé à cette désignation. La collectivité des associés y procédera dès lors que les conditions légales en seront réunies, dans les conditions de l'article 26.
 Article 39 — Actes accomplis pour le compte de la Société en formation
 39.1 Les soussignés donnent mandat à Monsieur Adam Talal Kabbara, dans les termes du mandat spécial annexé aux présents statuts, à l'effet de prendre pour le compte de la Société les engagements déterminés qui y sont limitativement énumérés et dont les modalités y sont précisées. Conformément au troisième alinéa de l'article R. 210-6 du Code de commerce, l'immatriculation de la Société emporte reprise de ces engagements.
 39.2 Ces engagements sont réputés avoir été souscrits dès l'origine par la Société, conformément à l'article L. 210-6 du Code de commerce.
@@ -397,7 +377,7 @@ Article 39 — Actes accomplis pour le compte de la Société en formation
 Article 40 — Formalités de publicité et pouvoirs
 Tous pouvoirs sont donnés au Président, avec faculté de substitution, à l'effet d'accomplir toutes formalités de publicité, de dépôt et d'immatriculation prescrites par la loi, notamment auprès du guichet unique des formalités des entreprises et du greffe du tribunal de commerce compétent.
 Article 41 — Frais de constitution
-Les frais, droits et honoraires des présents statuts et de leurs suites sont pris en charge par la Société, qui les inscrit à un compte d'actif approprié et les amortit avant toute distribution de bénéfices, dans la limite des engagements repris en application de l'article 39 et de sa trésorerie disponible. Par exception, les honoraires du commissaire aux avantages particuliers désigné en application de l'article 8.5 demeurent supportés par les associés fondateurs par parts égales et ne sont pas pris en charge par la Société. Les frais qui ne seraient pas ainsi pris en charge demeurent supportés par les associés fondateurs par parts égales, conformément aux conventions les liant.
+Les frais, droits et honoraires des présents statuts et de leurs suites sont pris en charge par la Société, qui les inscrit à un compte d'actif approprié et les amortit avant toute distribution de bénéfices, dans la limite des engagements repris en application de l'article 39 et de sa trésorerie disponible. Les frais qui ne seraient pas ainsi pris en charge demeurent supportés par les associés fondateurs par parts égales, conformément aux conventions les liant.
 ANNEXES AUX STATUTS
 Attestation de dépôt des fonds et liste des souscripteurs (article 6.1) ;
 Annexe 2 et Annexe 2 bis — liste des actifs apportés et acte d'apport en nature (article 6.2) ;
